@@ -1,6 +1,6 @@
 # Multi-Source Polyp Segmentation — Model Results
 
-This repository reports saved evaluation results for **YOLO26m-seg** and **YOLO26s-seg** on the same 1,390-image balanced polyp segmentation test set. It contains per-image metrics, confusion matrices, training plots, qualitative errors, and code to recalculate the comparison. Model checkpoints will be linked separately when published.
+This repository reports saved evaluation results for **YOLO26m-seg** and **YOLO26s-seg** on the same 1,390-image balanced polyp segmentation test set. It contains per-image metrics, confusion matrices, training plots, qualitative errors, and code to recalculate the comparison. Model files are linked below.
 
 **Open the [executed results notebook](model_results.ipynb)** to view the tables and figures directly on GitHub.
 
@@ -86,9 +86,9 @@ The script verifies that both models' CSV files contain the same image IDs and l
 
 ## Model files and limits
 
-| Model checkpoint | Download |
+| Model files | Download |
 |---|---|
-| YOLO26m-seg | **Link will be added later** |
-| YOLO26s-seg | **Link will be added later** |
+| YOLO26m-seg | [Google Drive folder](https://drive.google.com/drive/folders/1LsY1JsxvAjfsGRvKxvEF3HoyIkbT7rjx?usp=sharing) |
+| YOLO26s-seg | [Google Drive folder](https://drive.google.com/drive/folders/1j2ZCzcnGH4RrQUeMKQX8iLg98uFQFsWP?usp=sharing) |
 
 No weights or full image dataset are stored here. The dataset repository provides provenance and original source links. These results are retrospective test-set measurements; there is no patient-independent external clinical validation established by the available artifacts, and video predictions without ground truth are not accuracy measurements.
