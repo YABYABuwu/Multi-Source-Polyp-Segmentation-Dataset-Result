@@ -1,0 +1,62 @@
+{
+  "full_test": {
+    "YOLO26m": {
+      "images": 1390,
+      "positive": 695,
+      "negative": 695,
+      "tp": 666,
+      "fn": 29,
+      "tn": 671,
+      "fp": 24,
+      "sensitivity": 0.958273381294964,
+      "specificity": 0.9654676258992806,
+      "balanced_accuracy": 0.9618705035971222,
+      "mean_positive_dice": 0.8930045905874424,
+      "mean_positive_iou": 0.8467321741221066
+    },
+    "YOLO26s": {
+      "images": 1390,
+      "positive": 695,
+      "negative": 695,
+      "tp": 678,
+      "fn": 17,
+      "tn": 646,
+      "fp": 49,
+      "sensitivity": 0.9755395683453237,
+      "specificity": 0.9294964028776979,
+      "balanced_accuracy": 0.9525179856115108,
+      "mean_positive_dice": 0.9009780911035219,
+      "mean_positive_iou": 0.8514514195268398
+    }
+  },
+  "primary_wli": {
+    "YOLO26m": {
+      "images": 874,
+      "positive": 437,
+      "negative": 437,
+      "tp": 420,
+      "fn": 17,
+      "tn": 413,
+      "fp": 24,
+      "sensitivity": 0.9610983981693364,
+      "specificity": 0.9450800915331807,
+      "balanced_accuracy": 0.9530892448512586,
+      "mean_positive_dice": 0.8971514866506765,
+      "mean_positive_iou": 0.8495145848542726
+    },
+    "YOLO26s": {
+      "images": 874,
+      "positive": 437,
+      "negative": 437,
+      "tp": 425,
+      "fn": 12,
+      "tn": 398,
+      "fp": 39,
+      "sensitivity": 0.9725400457665904,
+      "specificity": 0.9107551487414187,
+      "balanced_accuracy": 0.9416475972540046,
+      "mean_positive_dice": 0.8991878173575067,
+      "mean_positive_iou": 0.8491895522814404
+    }
+  }
+}

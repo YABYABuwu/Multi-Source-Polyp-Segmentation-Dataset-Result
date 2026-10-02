@@ -1,0 +1,875 @@
+id,source,category,domain,gt_present,pred_present,dice,iou,gt_area_fraction,pred_area_fraction
+PolypGen-normal__Ileocecal_valve__79a542a0-fa0a-45cd-9861-442611bab951,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.05966676311728395
+PolypDB__Simula_WLI__263c96ca-0ca8-4eae-a455-d0cf14319b13,PolypDB,Simula/WLI,WLI/standard,True,True,0.865506742061766,0.7629016179740817,0.027872721354166668,0.02409758391203704
+PolypDB__Simula_WLI__8910bba8-9165-4155-84f1-56b75bce9c7d,PolypDB,Simula/WLI,WLI/standard,True,True,0.9208549298235397,0.8533189422558014,0.019225019290123456,0.022178819444444445
+PolypGen-normal__Ileocecal_valve__ec13344e-27e8-41b6-8730-953629b227d1,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Karolinska_WLI__100H0012,PolypDB,Karolinska/WLI,WLI/standard,True,True,0.9783235697919628,0.9575669369144136,0.2324248120300752,0.22546922862712337
+CVC-ClinicDB__polyp__400,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9652947081600459,0.9329175329175329,0.061451099537037035,0.06465205439814815
+PolypGen-normal__Ileocecal_valve__2a6d8bb6-e9a5-4466-a1b4-d927b7ad4cf1,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_07_200808_200731_BN016_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9259839920785543,0.8621696373693916,0.009403266331658292,0.00962782663316583
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0d75bd4a-4b3b-46e7-b47d-03d1519afd41,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0aeee025-953e-4212-bc4c-ce3658c25f56,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju3xga12iixg0817dijbvjxw,Kvasir-SEG,polyp,WLI/standard,True,True,0.6467430358878978,0.4779159117885925,0.29098768428077415,0.13958320694048412
+PolypDB__Simula_WLI__68ec8931-d94a-4b3f-96c6-1c97f5418a28,PolypDB,Simula/WLI,WLI/standard,True,True,0.9660642608845954,0.9343561928820864,0.06084587191358025,0.06470630787037036
+PolypGen-normal__Small_bowel_terminal_ileum__1a7b9fd9-f42e-4eb3-9257-20cf29941142,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__e4d18d5401f659532897255ce2dd4ae1,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9836350948228925,0.9677971856490738,0.1038552135678392,0.10092022613065327
+PolypDB__Simula_WLI__b385541e-fe85-4a34-b410-4fe2ed1117b7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9824494157926024,0.9655042521132875,0.3430763527199074,0.35284423828125
+BKAI-NeoPolyp__train__8841d318d1f625619d9ae2a9833aa6b8,BKAI-NeoPolyp,train,WLI/standard,True,True,0.905805848681905,0.8278291814946619,0.010301373839009288,0.010403766769865841
+PolypDB__BKAI_WLI__HMUH_07_200808_200803_BN022_008,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9160715941760178,0.8451403148528405,0.04708935301507538,0.0460427135678392
+Kvasir-SEG__polyp__cju87q6yoneim0871dl4phvkd,Kvasir-SEG,polyp,WLI/standard,True,True,0.9632679200402543,0.9291387222026121,0.25841730154829196,0.25325632833620054
+PolypGen-normal__Cecum__8fea0015-c225-4bbc-94bf-c92e6ecb80cf,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__01a72489-11c2-4891-a2b8-7a0fb1181b7c,PolypDB,Simula/WLI,WLI/standard,True,True,0.9174520069808028,0.8474931484765436,0.014696662808641976,0.012936439043209876
+PolypDB__BKAI_WLI__HMUH_06_200731_200720_BN017_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9842236073085959,0.9689372724057843,0.08017744974874372,0.08157192211055277
+PolypGen-normal__Ileocecal_valve__26e01bf9-140e-4073-a82f-0e14b4045214,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__19b4c0ef-fee6-4afe-939a-640ab373a9de,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__297,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9639623646369607,0.9304318026045236,0.025598596643518517,0.025336371527777776
+CVC-ColonDB__polyp__328,CVC-ColonDB,polyp,WLI/standard,True,True,0.9352189501424938,0.8783204305407661,0.22105923344947734,0.23375609756097562
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__07b136e7-1fe4-4fd1-be20-b8e7a278f943,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju7db7lp2f400755tntd1ohf,Kvasir-SEG,polyp,WLI/standard,True,False,0.0,0.0,0.2639890566699221,0.0
+BKAI-NeoPolyp__train__a46ce2be9800e6c6f4f219688c7e39b3,BKAI-NeoPolyp,train,WLI/standard,True,True,0.982156157906668,0.9649379573655743,0.012072079145728644,0.012173366834170854
+PolypGen-normal__Small_bowel_terminal_ileum__0641c417-3ec4-4407-b9b0-02d283091743,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__0e39b320-bfea-49be-b912-76c909c4a0dd,PolypDB,Simula/WLI,WLI/standard,True,True,0.8416899791980489,0.7266534555362893,0.014207175925925925,0.019408275462962962
+PolypGen-normal__Ileocecal_valve__decd5ac2-aca4-4f43-acf7-d28eaa0a14cc,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__9,CVC-ColonDB,polyp,WLI/standard,True,True,0.8862699851656503,0.7957673523753145,0.021585365853658535,0.020693379790940766
+PolypDB__Simula_WLI__ce3aa2f4-56af-470c-bb9c-a7e8b9f43e9b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9435395515302023,0.8931139380530974,0.015694926697530864,0.017317708333333334
+PolypGen-normal__Ileocecal_valve__b3b78e3b-11ea-402a-86cf-cea93fbbe4f6,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__e5a6b725-2985-4b2d-91d8-1d1e9f8572a7,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__9d9ae2a9833aa6b8232510939c091a79,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9922543190168277,0.9846277069118956,0.13568903154327425,0.13681895203336808
+PolypDB__Simula_WLI__2a269ab6-9dcb-4144-befd-6a38de476eeb,PolypDB,Simula/WLI,WLI/standard,True,True,0.9678536475193856,0.9377097009482129,0.04681712962962963,0.04926938657407407
+PolypDB__BKAI_WLI__HMUH_09_200908_200819_BN006_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.8069765447450795,0.6764129751100728,0.03998900753768844,0.0332553391959799
+CVC-ClinicDB__polyp__129,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9834150018846589,0.9673711531331108,0.07152416087962964,0.07241030092592593
+PolypGen-normal__Ileocecal_valve__886d6964-b822-4298-97d8-89d609bab806,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__00fcc101-9179-4612-a0c7-5a2a3c05fd14,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1e26580d-588e-472e-a7d8-12163c66c675,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__be82fa8c-bbea-4903-8318-7d23c5efb1bd,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_07_200808_200801_BN020_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9556181863230921,0.9150084517066517,0.025441268844221106,0.025262248743718595
+HyperKvasir__retroflex-rectum__0e63f847-ee28-4bcb-b30f-d462fdff8a5c,HyperKvasir,retroflex-rectum,WLI-like normal,False,True,0.0,0.0,0.0,0.005484683272161446
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0e952d13-68da-4e51-a2f5-8d7fcfc286cf,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__9454ae09-1839-4ed2-af8b-68b2762102db,PolypDB,Simula/WLI,WLI/standard,True,True,0.8895585953008265,0.8010855787044561,0.055901421440972224,0.0693653247974537
+PolypGen-normal__Small_bowel_terminal_ileum__1b46864c-7c5e-4941-8bf3-575d4bf9707a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__337b6933-5477-45f6-8439-4504a33e43bf,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__495,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9667174981240771,0.9355790854572713,0.1863335503472222,0.1872287326388889
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0e4b5cd7-052c-4180-8e7a-2242e0eeb713,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__07c8ac88-c575-470c-899d-30ce1eff509f,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__1e302527-c657-4b2d-b57c-a175965d3cc0,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__284,CVC-ColonDB,polyp,WLI/standard,True,True,0.914704832019339,0.8428166447301813,0.062087108013937284,0.06475261324041812
+PolypGen-normal__Cecum__04c86c4e-ec57-4151-aba1-291025ea4c21,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200820_BN011_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9658107116654439,0.9338819523269013,0.015772613065326634,0.01633322864321608
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__78c3e5f5-1659-433b-80ab-1ee370aad122,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200713_BN001_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9666754906780622,0.9355003989137833,0.10464824120603015,0.10297581658291458
+BKAI-NeoPolyp__train__4bf951276e3f404b79b6669075945dc8,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9774890805241349,0.9559693318729463,0.02492097888425443,0.02599713242961418
+BKAI-NeoPolyp__train__f02000f9b6c911c4aa179344271fa54a,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9439737424624074,0.8938923021322732,0.010161952554744525,0.011183524504692387
+PolypDB__Simula_WLI__6d76731e-3bad-4323-8f30-552f6e92eec3,PolypDB,Simula/WLI,WLI/standard,True,True,0.8960167089362971,0.8116216216216217,0.035040961371527776,0.040721752025462965
+CVC-ClinicDB__polyp__414,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9786416261737731,0.958176533578094,0.2862232349537037,0.2925075954861111
+PolypGen-normal__Ileocecal_valve__e33596a5-973b-40cd-91f5-dc1e5a04df76,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__65eddb95-d362-4fd0-b483-f692ac8f70dc,PolypDB,Simula/WLI,WLI/standard,True,True,0.8807108374728888,0.7868483560445055,0.01580343364197531,0.018660783179012347
+PolypGen-normal__Small_bowel_terminal_ileum__1fec97cf-b37e-4bd9-9beb-5fdc676bf5c0,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__8b88a51c-aa5e-46ab-a8f4-f0080ca0e855,PolypDB,Simula/WLI,WLI/standard,True,True,0.9167524267794065,0.8463000051353156,0.08677662037037037,0.08660783179012346
+PolypGen-normal__Small_bowel_terminal_ileum__7e16c4b2-e49d-45f4-bed7-8d289570f0f5,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__17c577d7-1851-4665-b0d8-27321019bf2c,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__9fdc98376290081835cf877e004e8bfb,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9772136579533484,0.9554426157059256,0.10958935301507537,0.10580873115577889
+PolypDB__Simula_WLI__d925548d-7779-4316-a306-f4df27e24624,PolypDB,Simula/WLI,WLI/standard,True,True,0.9768191268191269,0.9546886111957736,0.02320119598765432,0.023191550925925924
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a1f4c59-034b-4622-9a53-dca89892a49f,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__90be28799235026b3550534bca540e24,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9232254458614908,0.8573990184975463,0.03305276381909548,0.028759422110552765
+BKAI-NeoPolyp__train__c16952b6692e6be5e8f14e1e0ae936de,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9496392391225129,0.9041076880377463,0.011006595477386935,0.010540201005025125
+PolypGen-normal__Ileocecal_valve__0cea1d1d-7c8b-4069-8413-3fb83dc7786d,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__2a5dc05b-466b-48e3-961f-73c5e529790e,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju7bduyq1rjf08719giru9ho,Kvasir-SEG,polyp,WLI/standard,True,True,0.7562391415431783,0.6080261622652052,0.11989518191255032,0.18978023647365622
+BKAI-NeoPolyp__train__3c5d6d5f35f66adf95b204727fdcfa03,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9303626270911622,0.8697925583518804,0.11231996220020855,0.10121220020855057
+CVC-ClinicDB__polyp__487,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9697590522424621,0.9412934463081446,0.10413953993055555,0.09888599537037036
+BKAI-NeoPolyp__train__5dbf9c4ebafbd9871ca68e0d4bcbe0f5,BKAI-NeoPolyp,train,WLI/standard,True,True,0.933718908561899,0.8756780140427939,0.022988379396984924,0.02126884422110553
+PolypDB__Simula_WLI__73c7e3d6-0676-4114-982a-8a9d7f9e2b6e,PolypDB,Simula/WLI,WLI/standard,True,True,0.9349882999287822,0.8779136415743217,0.011226851851851852,0.012473476080246914
+PolypGen-normal__Retroflex_rectum__0d934a58-8273-4a7f-9469-c01ddcbe649b,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__07fd1730-eb30-4d64-9cc1-8c2d7cd1eda1,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__5f7be73e-3223-4053-88c1-ff8e455ce445,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__8d859444-6c2e-45bd-a56d-39aba6d0ce43,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__0bb9a3eb-3399-4ed8-89f1-092fc2ab5d49,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0b50c846-f163-4909-bd34-24b3d3fefd25,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2rzpsmtb0f0835jabkbao1,Kvasir-SEG,polyp,WLI/standard,True,True,0.9191377873049899,0.8503746143675628,0.0304178145087236,0.029822371441689623
+PolypGen-normal__Cecum__0b9557bf-f3cf-42f5-a5fd-c5d858cca5ec,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0de68ed7-3b6d-4f15-839f-7bc9e029934e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju887ftknop008177nnjt46y,Kvasir-SEG,polyp,WLI/standard,True,True,0.9432172500109789,0.8925365691489362,0.036266338669408135,0.03340554168502472
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0aca1492-76ab-4c68-a1ad-5917467078ec,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju1fyb1d69et0878muzdak9u,Kvasir-SEG,polyp,WLI/standard,True,False,0.0,0.0,0.09883805904706226,0.0
+PolypDB__Simula_WLI__be727af6-7cfc-4a09-9ce6-dd1b5435f5d7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9747529525186792,0.9507493388186894,0.039325327932098766,0.040709394290123456
+PolypGen-normal__Small_bowel_terminal_ileum__54716700-a521-4555-89bd-760368569820,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__a9aba429-80c1-4c26-9a18-ccaa7cbc84de,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.07665653935185185
+HyperKvasir__cecum__341402e2-a6b8-4e1e-b05a-1fed9243c87f,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__a3afe652-5b9f-46fe-af0b-ad44d522230f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__068284e7-859c-4784-b544-3d779d920b25,PolypGen-normal,Cecum,WLI-like normal,False,True,0.0,0.0,0.0,0.014173418209876543
+PolypGen-normal__Small_bowel_terminal_ileum__06c0d757-5b55-4c9f-9b26-8e85d9ea10b1,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__016632cd-a6dc-49bd-b4d8-5b847cd660ba,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.011460744598765431,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__06a535bc-e128-45f4-84ea-adf094e3cc36,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__05a4979a-a0d7-4d51-a8a4-e9b4f30fff18,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Karolinska_WLI__1,PolypDB,Karolinska/WLI,WLI/standard,True,True,0.9881246305247418,0.9765279997250718,0.12910517939814814,0.1309226707175926
+PolypDB__Simula_WLI__a6fdce36-3ecf-4416-b31e-2b31e2236b42,PolypDB,Simula/WLI,WLI/standard,True,True,0.9825940853287704,0.9657837360285952,0.5470874927662037,0.5494316948784722
+Kvasir-SEG__polyp__cju43o6n7m9nk087191ijwqq9,Kvasir-SEG,polyp,WLI/standard,True,True,0.9588432028329726,0.9209402516911681,0.0793887769432741,0.07579837577089821
+HyperKvasir__cecum__3ba1715b-17df-4a7b-a5e1-aedc2c7e1cee,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__18a3d645-6ec5-4f42-9cf3-1836edd614d5,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__040781d54ffd6a8ee924dbd70f618d52,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9840972410562391,0.968692359965052,0.047986023869346736,0.0475518216080402
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1ac7f093-65d2-42e8-a082-41b0c14d3337,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__2788e3b8-93c8-4947-8a8c-b7faa4cfd2a2,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__100H0004,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200717_BN012_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9561695861106805,0.91602004826434,0.019989007537688442,0.020532349246231155
+PolypGen-normal__Small_bowel_terminal_ileum__3069146b-8c4c-42b3-bdad-8cd00119918e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__32881442-af56-4059-943c-ca8901cbfbb8,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__10a291fb-755d-4879-b77f-de86b1350687,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__1cce683c-7756-4154-b4f2-0bed77aa4a29,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0f17c339-fd11-4c16-aabd-ef7cfbf1fdb1,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__838b37ff-466c-4907-8256-c4fe62d7aa1b,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2yi9tz8vky0801yqip0xyl,Kvasir-SEG,polyp,WLI/standard,True,True,0.8484357922088634,0.7367681163313365,0.26177562967335694,0.33458161157024796
+PolypDB__Simula_WLI__81f109fd-1311-4578-ad92-f6ba49160d01,PolypDB,Simula/WLI,WLI/standard,True,True,0.9466662808195393,0.8987334816890574,0.07466408058449074,0.08156783492476852
+PolypDB__Simula_WLI__5531171a-9e14-48ac-9609-32ac60a16cdb,PolypDB,Simula/WLI,WLI/standard,True,True,0.883215018760377,0.7908550290316538,0.09586588541666667,0.07704671223958333
+PolypGen-normal__Ileocecal_valve__b2d34aec-8d77-4871-bf48-1d1bec1663e6,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200713_BN001_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9211885749649736,0.8538921201497889,0.04546403894472362,0.045884108040201
+PolypGen-normal__Small_bowel_terminal_ileum__90854828-75d4-4e17-ab7a-0cf84d39957b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__71a37ca2-f4eb-4f4c-9874-0dd75b7360ee,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__09670637-275b-4a1f-8624-cf1595c4a31a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1e795a4e-9baa-4c40-b2e7-45bddc928dcc,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__032a9c71-5dc7-440f-8463-963693b9d499,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__1b27449f-9252-4a71-b8ea-0d0ea2204f31,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__15660d47-b33d-4630-bade-2eafaa64a626,PolypDB,Simula/WLI,WLI/standard,True,True,0.9694110861639236,0.9406379916853214,0.054361979166666664,0.05538149233217592
+Kvasir-SEG__polyp__cju8ca4geseia0850i2ru11hw,Kvasir-SEG,polyp,WLI/standard,True,True,0.9296693060083838,0.8685813751087903,0.09136838106209386,0.08623653080795238
+PolypDB__Simula_WLI__661edf8a-7a6f-460f-b7a3-9fd1b01a8b03,PolypDB,Simula/WLI,WLI/standard,True,True,0.9697859840537139,0.9413441955193482,0.016230830439814815,0.016090675636574073
+PolypDB__Karolinska_WLI__100H0044,PolypDB,Karolinska/WLI,WLI/standard,True,True,0.9114048737743802,0.8372303456239105,0.12148971193415638,0.10550274348422496
+PolypDB__BKAI_WLI__HMUH_09_200908_200831_BN054_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9523353046145678,0.9090077281493264,0.050863693467336685,0.05561714824120603
+PolypGen-normal__Ileocecal_valve__2e16ef81-aa8a-4558-ada4-0ccc50fdf488,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__2b298b47-1528-4903-97fc-2f2d39640520,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__68,CVC-ColonDB,polyp,WLI/standard,True,True,0.9437702124700073,0.8935273589253967,0.04882578397212543,0.051372822299651566
+PolypDB__BKAI_WLI__HMUH_06_200731_200717_BN009_015,PolypDB,BKAI/WLI,WLI/standard,True,True,0.977130889463623,0.9552843852633605,0.05529993718592965,0.056421168341708544
+PolypGen-normal__Small_bowel_terminal_ileum__0e857a0f-3dd0-45cd-a4db-8fb9f26d5a50,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_08_200822_200813_BN030_006,PolypDB,BKAI/WLI,WLI/standard,True,True,0.939064682039579,0.8851290612559394,0.011365420854271356,0.011686557788944724
+PolypDB__Simula_WLI__a60e4f45-3efb-469f-b9db-df268a444aea,PolypDB,Simula/WLI,WLI/standard,True,True,0.9387762590588019,0.8846167144981155,0.05800600405092592,0.06520589192708333
+PolypGen-normal__Small_bowel_terminal_ileum__0b51de2e-5a81-4a93-84b8-38cf2be202a2,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0c4b397e-b1e5-4ed2-8385-1866f537f042,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__0691bce8-0bb1-4503-a3ca-a7c380ea6db8,PolypDB,Simula/WLI,WLI/standard,True,True,0.909532949456174,0.8340765078620043,0.20069685570987655,0.23271604938271606
+PolypDB__Simula_WLI__63c33903-e80c-4daf-8b52-59e6942688dc,PolypDB,Simula/WLI,WLI/standard,True,True,0.9539959177264877,0.9120384268988292,0.013744212962962963,0.01505081741898148
+PolypGen-normal__Ileocecal_valve__72c1518e-ecd1-4c42-acd5-2a8daf52a6a6,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2oo0wh0bqy0878biujeyhe,Kvasir-SEG,polyp,WLI/standard,True,True,0.9740679494888755,0.9494468459227782,0.08231094096557591,0.07937593048339561
+PolypDB__Simula_WLI__e298ebc0-1778-489f-b0c5-306d248cf386,PolypDB,Simula/WLI,WLI/standard,True,True,0.9159955544156622,0.845010883624089,0.07289737654320988,0.06812548225308641
+PolypGen-normal__Small_bowel_terminal_ileum__084667a5-def6-4944-9b1d-946aaa1142e6,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__03dbcfa5-dbec-4301-84d8-26d93e42e685,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__08cdee4f-5d93-4a65-8e75-836c8b8cb63c,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__81e095fdc7f720eff82f514f401ea0bd,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9676761080728103,0.9373764529137345,0.00984199078812692,0.00975083162743091
+PolypGen-normal__Ileocecal_valve__0a486f78-21e8-4d63-af5e-18b11ee3eac8,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__003ef0af-3fc5-4b42-b90e-37c2847fb6df,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__340e1a99-ef0f-4a19-9125-6b73c250869b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__876a7269-4b91-4765-995a-979ec5b86dd0,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__235,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9267162372471036,0.8634400979570793,0.1290961371527778,0.13236038773148148
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN080_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.8837138353587227,0.7916552792201876,0.007562028894472362,0.00788002512562814
+BKAI-NeoPolyp__train__4a1e4062d81e095fdc7f720eff82f514,BKAI-NeoPolyp,train,WLI/standard,True,True,0.7818742345538241,0.6418665927055887,0.00967646494370522,0.00925825230296827
+PolypDB__BKAI_WLI__HMUH_06_200731_200724_BN061_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9845142386671832,0.969500780961238,0.06474560301507537,0.06495288944723618
+PolypDB__Simula_WLI__1e43bf1c-9706-4da0-8654-06b140e4bf18,PolypDB,Simula/WLI,WLI/standard,True,True,0.9767836919592299,0.9546209186496957,0.05481288580246914,0.05590277777777778
+PolypDB__BKAI_WLI__HMUH_06_200731_200725_BN065_007,PolypDB,BKAI/WLI,WLI/standard,True,True,0.875505175972832,0.7785764391848188,0.08435222989949749,0.06893687185929648
+PolypGen-normal__Small_bowel_terminal_ileum__0a2cbbad-5506-4b9d-a91b-bf94dc34d263,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__eb2a0e4b50889d874c68c030b9afea69,BKAI-NeoPolyp,train,WLI/standard,True,True,0.934176487496407,0.8764832793959008,0.0026633165829145727,0.002799937185929648
+PolypGen-normal__Cecum__070731c3-eee0-4eb4-84b1-c84a9b862e17,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju33mirdc8mj0799k33wzoes,Kvasir-SEG,polyp,WLI/standard,True,True,0.9258099404348739,0.8618679089338042,0.16999491855079404,0.19183346864395395
+CVC-ClinicDB__polyp__270,CVC-ClinicDB,polyp,WLI/standard,True,True,0.870208895301424,0.7702387562465297,0.19178602430555555,0.24064127604166666
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0df51384-8026-4787-82ea-50db2ea64e5c,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__98e6eb64-aa83-4697-97f8-9b3b9a94d0e7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9814319611314075,0.9635408963171128,0.03208188657407408,0.03193962191358025
+BKAI-NeoPolyp__train__c2820362736055807907941a8490fd7d,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9634406979960273,0.9294602789569436,0.03167556532663317,0.03077889447236181
+Kvasir-SEG__polyp__cju5bwhapakm90987c1v4z46a,Kvasir-SEG,polyp,WLI/standard,True,True,0.9566152742918609,0.9168384879725086,0.0340295041910053,0.033780292853712944
+PolypGen-normal__Ileocecal_valve__100H0015,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__a2f9e2ee-98a2-4d80-8058-0b8c4a7d88fe,PolypDB,Simula/WLI,WLI/standard,True,True,0.960055489820066,0.9231795354676711,0.02855661651234568,0.030541087962962964
+PolypGen-normal__Small_bowel_terminal_ileum__1d07a40f-9cc8-442c-b87c-56c397dc9951,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__9080fc36-bf85-4437-a66d-edd42e6c7fda,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__33f6dd7f-c47a-4e29-b687-e376f7952ab9,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__3ffc070c-380e-4b1b-b4f4-14b310e20f87,PolypDB,Simula/WLI,WLI/standard,True,True,0.9581332533013205,0.9196312833069279,0.04442003038194445,0.045966254340277776
+PolypGen-normal__Ileocecal_valve__8ac3618b-42cf-46aa-b1d1-29b4d7e9791f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju1cnnziug1l0835yh4ropyg,Kvasir-SEG,polyp,WLI/standard,True,True,0.9582567120264803,0.9198587819947043,0.19269171044371758,0.20257706412924967
+Kvasir-SEG__polyp__cju2mfjndoz700988b9lc3zeq,Kvasir-SEG,polyp,WLI/standard,True,True,0.9575811556630032,0.9186145865120537,0.09561526210934898,0.09474630770069213
+PolypGen-normal__Retroflex_rectum__13999571-1f3a-4016-8979-1752da8ba78c,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0d7e9402-d386-4fe7-99b3-21921bcf406b,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__d72ab56e-66e8-4ec5-a37f-ed8d66b5ce31,PolypDB,Simula/WLI,WLI/standard,True,True,0.977812349520317,0.9565879112914916,0.03205536265432099,0.033041570216049386
+PolypGen-normal__Small_bowel_terminal_ileum__14d99757-eff8-41ef-ba78-d6f8d82c796b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__190,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9668427230046949,0.9358136892928145,0.03058087384259259,0.031051070601851853
+PolypGen-normal__Ileocecal_valve__b5d9c06c-6e10-4d01-81dd-122b00965edb,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0f328ab2-5e9d-40bf-90cc-e6ec9ba741b2,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__04d608f0-3300-4f63-b366-1118226c6560,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__5d66ce75-ac98-4886-bd96-c1c903e7b578,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju7b5afm1nfw0801xqm8bf8q,Kvasir-SEG,polyp,WLI/standard,True,True,0.9566089648056861,0.9168268966653849,0.056594638270312414,0.05310482945524399
+BKAI-NeoPolyp__train__be9800e6c6f4f219688c7e39b3608a3d,BKAI-NeoPolyp,train,WLI/standard,True,True,0.7963561334527193,0.661621062164435,0.023993404522613067,0.016344221105527638
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__14c9de5b-34f1-4c7d-b41b-bc8bd4d34a56,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__bebf6f6e-3c76-4ad6-9ef0-d19ef0fd6dad,PolypDB,Simula/WLI,WLI/standard,True,True,0.9457634711378472,0.8971074756426989,0.07156394675925926,0.07914978780864197
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a8e2f95-44e3-462c-833f-760aa3b8b806,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju5vi4nxlc530817uoqm2m7a,Kvasir-SEG,polyp,WLI/standard,True,True,0.9754753901642473,0.9521248985133031,0.2272441856920779,0.2198219892096199
+PolypDB__BKAI_WLI__HMUH_08_200822_200819_BN058_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.957580068972983,0.9186125864166395,0.02525518216080402,0.025516645728643216
+PolypDB__Simula_WLI__0eed63cb-174b-4aca-b473-75a01c41025f,PolypDB,Simula/WLI,WLI/standard,True,True,0.9032996632996633,0.8236522166277784,0.016186824845679012,0.019620466820987656
+BKAI-NeoPolyp__train__c9d82404c5709ec7f1fc395e7c47889e,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9306800607661462,0.8703476168535299,0.030502965328467153,0.0290211157455683
+CVC-ClinicDB__polyp__103,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9764956156280807,0.9540707695427355,0.08559389467592593,0.08867730034722222
+PolypDB__Simula_WLI__02e05e0f-5335-4d25-b41b-8f3181fa8941,PolypDB,Simula/WLI,WLI/standard,True,True,0.9713827522326983,0.9443578302241815,0.04111056857638889,0.040647153501157406
+Kvasir-SEG__polyp__cju2syxa93yw40799x2iuwabz,Kvasir-SEG,polyp,WLI/standard,True,True,0.9577205882352942,0.9188712522045855,0.021394928298078136,0.02054684105022639
+PolypDB__BKAI_WLI__HMUH_09_200908_200820_BN011_005,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9742542831379621,0.9498009761312011,0.05364400125628141,0.05520100502512563
+CVC-ColonDB__polyp__144,CVC-ColonDB,polyp,WLI/standard,True,True,0.9620622006808609,0.9268977402229202,0.12218118466898954,0.11936585365853658
+CVC-ClinicDB__polyp__372,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9521892299949672,0.9087415946205571,0.009114583333333334,0.008852358217592593
+PolypGen-normal__Ileocecal_valve__e2955ac8-6502-4883-9491-f47d526898f8,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1f5b9ae0-7494-4cf6-ac20-4ef38f3fa8a0,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200723_BN058_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9544725724360467,0.912910122941431,0.05888112437185929,0.05913473618090452
+Kvasir-SEG__polyp__cju3y9difj6th0801kd1rqm3w,Kvasir-SEG,polyp,WLI/standard,True,True,0.9744251637267556,0.9501258506572201,0.09960641265559049,0.0991092830250813
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a2a083c-8167-4b69-b61d-06d4e06b4e25,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0d28f3fe-405c-4405-9f99-3dd6e43f3644,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__732c2763-3289-40a4-9fd9-3d7c8e9a9aeb,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__fabfc07e-1115-4e68-8322-a62ea029d134,PolypDB,Simula/WLI,WLI/standard,True,True,0.985878138191513,0.9721495762189695,0.16268129701967593,0.16291187427662038
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1d883ac7-8bea-412e-a49f-339fd3bb1cf8,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__963e1713a8763b8318ecf467d7ad048d,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9497357472169122,0.9042826552462527,0.003511226970317298,0.003599987205731832
+PolypGen-normal__Cecum__100H0002,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__b106f3e3-956a-4759-a841-c6b531fe5d25,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__83dfaec4-a66b-4cc6-b317-ae7f29b5bf1f,PolypDB,Simula/WLI,WLI/standard,True,True,0.9834184462057795,0.9673778188629674,0.18056233723958334,0.18507441767939814
+PolypGen-normal__Ileocecal_valve__8b752a31-f8e0-477e-873a-92b90eeedb4e,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__453,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9582828037836527,0.919906868451688,0.03665726273148148,0.037905092592592594
+PolypDB__Simula_WLI__bdb14ca7-6af8-4883-9360-16a2dccc4699,PolypDB,Simula/WLI,WLI/standard,True,True,0.9727017659679815,0.9468543152753679,0.10961371527777777,0.10953414351851852
+BKAI-NeoPolyp__train__bfcd6da15fc656702fa602bb3c7abacd,BKAI-NeoPolyp,train,WLI/standard,True,True,0.959549396410153,0.9222440672334062,0.028621936913451513,0.027929483837330554
+CVC-ClinicDB__polyp__266,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9772402132917154,0.9554933875890133,0.2414008246527778,0.24527994791666666
+Kvasir-SEG__polyp__cju8cdeazsm8h0801jxifmzur,Kvasir-SEG,polyp,WLI/standard,True,True,0.979176264627292,0.9592020940518098,0.1272202136544965,0.12633826097622233
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0d07d365-d6e1-4dca-99b7-c57b457f37b1,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN073_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9503831078020052,0.9054571385677826,0.02001020728643216,0.019852386934673366
+PolypDB__Simula_WLI__028a59b5-3a78-47c5-8dbd-d0cc332a58fd,PolypDB,Simula/WLI,WLI/standard,True,True,0.9259286019245295,0.8620736047748927,0.19470003858024693,0.17240306712962963
+PolypDB__Simula_WLI__00220261-67c0-41e4-b728-84381341846c,PolypDB,Simula/WLI,WLI/standard,True,True,0.9464598290892604,0.8983614058788922,0.41780719521604937,0.422485050154321
+PolypDB__BKAI_WLI__HMUH_08_200822_200819_BN062_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.973200468933177,0.9477998766926221,0.06689227386934674,0.0670587311557789
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__3b7c08b8-5f2d-492f-8182-2942fd4ea3dd,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__a8176523-a9a1-4284-a869-51547b96ce8c,PolypDB,Simula/WLI,WLI/standard,True,True,0.9707818085370112,0.9432225514369186,0.4407744984567901,0.46379484953703703
+PolypGen-normal__Small_bowel_terminal_ileum__0110e477-49f0-4dfa-833a-421c1ea0eb4f,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__e7c1f459-c75d-4813-9176-09cfaebbaf41,PolypDB,Simula/WLI,WLI/standard,True,True,0.9856540650542864,0.9717139203668592,0.10667197145061728,0.1089747299382716
+PolypGen-normal__Ileocecal_valve__29b57929-10c9-4a6a-83f3-7a40a6566bd4,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__218,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9754784003666781,0.9521306341572531,0.07793511284722222,0.07988823784722222
+PolypGen-normal__Ileocecal_valve__a13ac6b5-28df-4c4d-aaca-daf2e947c2a9,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__1ac76e1a-8adb-4528-a0b9-d274fcf26faf,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a1e4a51-d8d6-4b24-b518-7442d14cef42,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__7b11f4f8-ea03-406e-80ed-1e79d0c7fbd0,PolypDB,Simula/WLI,WLI/standard,True,True,0.9423733960974869,0.8910265613783201,0.014144332320601851,0.015629521122685185
+PolypGen-normal__Cecum__0afa4cf6-4613-4330-b590-8fee81c08ea7,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__119,CVC-ClinicDB,polyp,WLI/standard,True,True,0.891548709408826,0.8043192488262911,0.11622902199074074,0.14440465856481483
+PolypGen-normal__Ileocecal_valve__a7a87571-e719-4357-bc6d-e6b0cfe436be,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju3u39fog1bo0871lxjrabks,Kvasir-SEG,polyp,WLI/standard,True,True,0.9648116482964746,0.9320155570807596,0.08679347602810074,0.08667597880119962
+PolypGen-normal__Small_bowel_terminal_ileum__01383a62-c445-4d8b-a000-becd97fe49ba,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__a7d04214-4ed4-49a1-a401-c9d9f6cc853b,PolypDB,Simula/WLI,WLI/standard,True,True,0.925285828237171,0.8609599208312716,0.007957175925925927,0.009046766493055556
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__02412ea5-fc91-4356-9ca0-98ff2baf2282,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__425,CVC-ClinicDB,polyp,WLI/standard,True,True,0.8992094861660079,0.8168761220825853,0.02464916087962963,0.021104600694444444
+CVC-ClinicDB__polyp__126,CVC-ClinicDB,polyp,WLI/standard,True,True,0.8950043641217846,0.8099618994517238,0.0953052662037037,0.080810546875
+PolypDB__Simula_WLI__a26f1ee5-0c34-4731-92d3-7f49fe186efe,PolypDB,Simula/WLI,WLI/standard,True,True,0.9902155437681329,0.9806207034155012,0.207904052734375,0.208636474609375
+HyperKvasir__retroflex-rectum__de7bfa14-dc1a-4641-9386-6c9e3bf7f0cd,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__0bfd2a52829ab4e7568cb49a3c530b99,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9846691667884259,0.9698013047371339,0.07587574947862356,0.07466436392075078
+PolypDB__Simula_WLI__1a85d2ef-9b96-4752-ba99-e6311908a749,PolypDB,Simula/WLI,WLI/standard,True,True,0.9765648715924959,0.9542030017203535,0.03656910083912037,0.03789831090856482
+PolypGen-normal__Small_bowel_terminal_ileum__0f7ea225-07d6-42b9-b2d0-d91f17cd1fa1,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__0f86ccc8-4264-40b0-a235-5dddbf63ff52,PolypDB,Simula/WLI,WLI/standard,True,True,0.948757746383133,0.9025110464489708,0.021476115516169153,0.02140858208955224
+PolypGen-normal__Ileocecal_valve__880dd38e-5c74-4fa0-95ea-462ee4624471,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__03fa7c36-7c66-4e9a-aac1-34851b293cd1,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0ad63553-944d-4fe5-9b69-57b4183a9163,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200819_BN004_006,PolypDB,BKAI/WLI,WLI/standard,True,True,0.960900969019241,0.9247443606143004,0.04025282663316583,0.03866834170854271
+PolypGen-normal__Ileocecal_valve__a7bbc13d-a660-4236-bd29-ee4f0fc985a9,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Retroflex_rectum__193ee79e-bb4c-42b9-864e-fa6eb0830e5f,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__100H0003,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__bca10472-4542-44a8-8c0c-a24980a4eade,PolypDB,Simula/WLI,WLI/standard,True,True,0.9862755288637369,0.9729226796293483,0.06253616898148148,0.06273148148148149
+PolypGen-normal__Small_bowel_terminal_ileum__0ede20a9-2226-4534-bb78-81a6508f6333,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__573,CVC-ClinicDB,polyp,WLI/standard,True,True,0.944025406907503,0.893984962406015,0.02228009259259259,0.023274739583333332
+PolypGen-normal__Small_bowel_terminal_ileum__820228e5-df1a-4bba-a583-a9ca63cae865,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__216,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9225200959555574,0.856183110694477,0.111083984375,0.10376880787037036
+CVC-ColonDB__polyp__32,CVC-ColonDB,polyp,WLI/standard,True,True,0.9713345325117685,0.9442666865094129,0.09156794425087109,0.09051567944250871
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__6c9e842b-ddde-4b82-aa2a-e40252592956,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__103576f9-ff49-4fe7-aec6-3b0fdd478aed,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200721_BN037_008,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9076442920567938,0.8309054325955735,0.016243718592964824,0.019480213567839195
+CVC-ClinicDB__polyp__154,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9228346456692913,0.8567251461988304,0.005425347222222222,0.006058304398148148
+BKAI-NeoPolyp__train__cb49a3c530b99ec16e8b659fdc988a3e,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9919407243638102,0.9840103140143152,0.10909964807090719,0.10903610531803963
+PolypGen-normal__Small_bowel_terminal_ileum__65949798-8042-42eb-a5d4-9e3be7bf5aa0,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__e14e2752-2f18-4671-821e-70fe3f372dc5,PolypDB,Simula/WLI,WLI/standard,True,True,0.9864794351349745,0.9733196042907603,0.17214400679976852,0.1701027199074074
+Kvasir-SEG__polyp__cju0vtox5ain6099360pu62rp,Kvasir-SEG,polyp,WLI/standard,True,True,0.9196613742222827,0.8512713997985901,0.04454678123542912,0.044507420931204245
+PolypGen-normal__Ileocecal_valve__0a70f4e3-6664-4855-b5ad-6e8b1bd44ec3,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0d563f73-d933-4c21-87f0-163f88f5b421,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__6aa21b7c-946d-45eb-b266-a493269eeb0c,PolypDB,Simula/WLI,WLI/standard,True,True,0.9253157474403056,0.8610117299442872,0.2526561595775463,0.22004304108796297
+PolypDB__Simula_WLI__7ebe390b-a4fe-44e7-88c2-e47958e58027,PolypDB,Simula/WLI,WLI/standard,True,True,0.9714002723783584,0.9443909484833896,0.009975405092592593,0.009500385802469136
+PolypDB__Simula_WLI__69f02066-41e3-4771-ae38-a85f78f6a63d,PolypDB,Simula/WLI,WLI/standard,True,True,0.7015739442106903,0.5403264522323572,0.009828317901234567,0.00564477237654321
+HyperKvasir__cecum__72f8ee6e-399b-4a47-a054-023e8579a594,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__7b4a50ca-e91b-4b7b-9b0b-ed2c63591dd3,PolypDB,Simula/WLI,WLI/standard,True,True,0.9528847236006098,0.9100093801297585,0.12232349537037036,0.11335117669753086
+BKAI-NeoPolyp__train__aa922bca73d5379c7c851a508273160e,BKAI-NeoPolyp,train,WLI/standard,True,True,0.931215888715938,0.8712853034436988,0.02186278023983316,0.019483185610010428
+PolypGen-normal__Small_bowel_terminal_ileum__2bb8e3d9-e65e-48b7-8130-149e53d5e21d,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__2c324452-9bd6-4653-b31c-f32175d706e3,PolypDB,Simula/WLI,WLI/standard,True,True,0.975142378559464,0.9514905857740585,0.04983859592013889,0.05137803819444445
+PolypDB__Simula_WLI__c2e16223-d2ce-4565-9618-c38d52549743,PolypDB,Simula/WLI,WLI/standard,True,True,0.9515969053759175,0.9076631977294229,0.03481143904320988,0.03811969521604938
+PolypDB__BKAI_WLI__HMUH_06_200731_200717_BN011_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9705908704027236,0.9428621162340347,0.07036746231155779,0.06985238693467337
+PolypDB__Simula_WLI__0fa8810f-f91f-4434-931b-458eabe9543e,PolypDB,Simula/WLI,WLI/standard,True,True,0.9754635181256341,0.9521022778428019,0.0785035686728395,0.0783396026234568
+PolypDB__BKAI_WLI__HMUH_07_200808_200731_BN016_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.8393486405282095,0.7231703419622882,0.023585113065326634,0.01875
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1cd7f661-e416-4898-b745-6ea6ef7b69b3,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__fecc8be6-f786-44f4-9641-ad13da18cb42,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__a0ad83b8cac03290f1b976b7a7efc10b,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9788425024042611,0.958561734804762,0.03044281005859375,0.0314361572265625
+PolypGen-normal__Small_bowel_terminal_ileum__2a13cda9-6e75-4f95-bde7-e7f62eab6976,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__a8ffb30f-ca27-4a40-88c8-6b401ce84f3e,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0c884468-3f72-43bd-ad38-8279001c28c5,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__8d97c33a-7063-4b06-967e-eaf158b2cbbf,PolypDB,Simula/WLI,WLI/standard,True,True,0.9058517198848842,0.8279058116232465,0.009594425154320988,0.008000578703703704
+PolypGen-normal__Small_bowel_terminal_ileum__15cf0abf-0e5e-4193-beb4-a250bc35d90d,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN080_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.926013975938333,0.8622216259726322,0.026847518844221107,0.027647613065326634
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__04ec9d3e-a21f-4c75-9f19-730cf805da72,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__373,CVC-ColonDB,polyp,WLI/standard,True,True,0.8863885839736553,0.7959586002957122,0.006860627177700349,0.0058362369337979095
+CVC-ColonDB__polyp__208,CVC-ColonDB,polyp,WLI/standard,True,True,0.9113849765258216,0.8371967654986523,0.005466898954703833,0.006407665505226481
+PolypGen-normal__Small_bowel_terminal_ileum__196705b1-1f96-4d31-a733-1c22e3d6edfe,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__fd497237-f38b-41cf-a60b-8346748cb6c2,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__85,CVC-ColonDB,polyp,WLI/standard,True,True,0.882183908045977,0.7892030848329049,0.009114982578397213,0.010285714285714285
+PolypDB__Simula_WLI__0fe2bbdc-a46b-4d84-9e03-f0dcc473b500,PolypDB,Simula/WLI,WLI/standard,True,True,0.9580520732883318,0.9194817214252661,0.00978491512345679,0.010218942901234568
+PolypDB__BKAI_WLI__HMUH_09_200908_200824_BN020_005,PolypDB,BKAI/WLI,WLI/standard,True,True,0.8473015185291302,0.7350591088208548,0.06325455402010051,0.049103329145728646
+PolypGen-normal__Cecum__04644811-19a6-44e2-92a4-0c5c1f7f8bf5,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__133,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9793560114256037,0.9595471314082178,0.0695529513888889,0.0697337962962963
+HyperKvasir__retroflex-rectum__562cb148-957f-48f5-91fb-9fd21de01418,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__10d856ae-cc95-4ce5-bbcd-0c08da05a32a,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__14a7473e-8668-4bd4-abec-25ca07c8ec15,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__5fa095f978455cef3593cef221b7a23b,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9672109117785392,0.9365038058681934,0.01195304503582395,0.011849091606960082
+PolypDB__Simula_WLI__0ac12a79-411c-4c97-96bc-7ef235d30197,PolypDB,Simula/WLI,WLI/standard,True,True,0.9643375241779497,0.9311310843936034,0.03963155864197531,0.04015239197530864
+PolypGen-normal__Small_bowel_terminal_ileum__1bee698a-52cc-4c06-b81b-162cc26dd1f3,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__d44ac865-e15d-4aa3-b544-8598d9c22180,PolypDB,Simula/WLI,WLI/standard,True,True,0.9820012259226926,0.9646389081487429,0.06431086033950617,0.06550443672839507
+PolypGen-normal__Ileocecal_valve__bbbb806f-6c88-4996-866b-59480c261ffa,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2t62nq45jl0799odpufwx6,Kvasir-SEG,polyp,WLI/standard,True,True,0.9618892436094993,0.9265767045454546,0.19995676215531522,0.21302859787586476
+PolypGen-normal__Small_bowel_terminal_ileum__0e718349-9a32-4f23-a239-7c90d56c3f9c,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.005599410445601852
+HyperKvasir__retroflex-rectum__06b240a4-6a9b-43a1-9749-4fe025bc00b6,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_07_200808_200730_BN009_007,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9133730197456166,0.8405580170039516,0.012224403266331658,0.011912688442211055
+PolypDB__Simula_WLI__dc2225ee-6d25-40a9-97be-851b78ecfdea,PolypDB,Simula/WLI,WLI/standard,True,True,0.9233254994124559,0.8575716234652114,0.09605275848765432,0.08452208719135802
+PolypDB__Simula_WLI__0211cb21-cfb4-4cf6-ac3b-56a8d5501a2c,PolypDB,Simula/WLI,WLI/standard,True,True,0.9703420963030661,0.9423927042361377,0.06182861328125,0.06431749131944445
+CVC-ClinicDB__polyp__547,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9469536223097909,0.899251583189407,0.043538411458333336,0.045952690972222224
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__54f12dd6-b77e-4c46-bb9b-f7fff8455cb6,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__02cfc2e0-b128-4b0d-aafb-5450e9e343be,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__127d0dd0-98d4-49e0-b89a-497e70dd46ae,PolypDB,Simula/WLI,WLI/standard,True,True,0.9788785608956253,0.9586308967855962,0.30891022858796297,0.30735044126157407
+PolypDB__Simula_WLI__83430234-1e5f-45e3-b5fd-9a8f536eb024,PolypDB,Simula/WLI,WLI/standard,True,True,0.9736864024958163,0.9487221107307283,0.14598479094328703,0.15254720052083334
+PolypDB__Simula_WLI__19d542ee-630a-40f2-91ab-42a181a815d8,PolypDB,Simula/WLI,WLI/standard,True,True,0.9721244544558637,0.9457608546774414,0.03202537254050926,0.03220169632523148
+PolypGen-normal__Ileocecal_valve__07d56f1e-d853-44b8-b8c3-71b630ef6634,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.04093650535300926
+PolypDB__Simula_WLI__6ac5a258-1fe7-4c21-9ba2-92fcb2a27b29,PolypDB,Simula/WLI,WLI/standard,True,True,0.9623888795552991,0.9275043998592045,0.15951003086419754,0.17059461805555556
+HyperKvasir__cecum__cb6743a0-2d34-4cc1-b66f-0bf019e576d4,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__1a105bfa-97b4-4fd8-a2e2-ad5d4b8eef15,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__0af78edf-cd27-402c-9800-6bdcf6cccb21,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__d4ba48e5-ae8b-41e0-9e86-87210182baf7,PolypDB,Simula/WLI,WLI/standard,True,True,0.968923904208091,0.9397210430563978,0.03915653935185185,0.03797019675925926
+PolypGen-normal__Ileocecal_valve__531b116d-eda0-452c-81a2-fa14862c3617,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__6ba54959-f2ad-4ad8-a9a9-54d936b7ea89,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN077_009,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9765445111904786,0.9541641252287294,0.07694252512562814,0.0765075376884422
+PolypGen-normal__Small_bowel_terminal_ileum__10736547-032e-4fe9-96bc-4d8305934e40,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__b46edd2e-6a80-4e8e-8f46-1a152d53fdf0,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.07732024016203703
+CVC-ColonDB__polyp__35,CVC-ColonDB,polyp,WLI/standard,True,True,0.9536293377784513,0.9113685734974656,0.08788850174216029,0.09605574912891986
+PolypDB__BKAI_WLI__HMUH_08_200822_200811_BN023_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9636163430889597,0.9297872816337486,0.13740263819095477,0.1335615577889447
+HyperKvasir__cecum__abf0c438-3103-41a3-81ec-129bc8089649,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__8a7a2a6e-a1e8-4495-81cc-d7aee01a0c5a,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__06f1d1d8-1828-4e2d-b153-759ff2a38e74,PolypDB,Simula/WLI,WLI/standard,True,True,0.9569302824803629,0.9174173752794694,0.2302788628472222,0.23306839554398148
+PolypDB__Simula_WLI__78d7006b-9109-495c-8b2c-417e6938f94f,PolypDB,Simula/WLI,WLI/standard,True,True,0.0,0.0,0.0326220100308642,0.025887345679012345
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0a0c1dc3-0389-47bd-be5b-8837ad662f25,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__0f9500ef-80b5-408e-90c8-5af65fd4d322,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__8cc69e91-cc34-43f1-a09c-3b3a9e8d202c,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.07300829475308641,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN075_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9770249636021449,0.9550819216884199,0.0438536432160804,0.04459170854271357
+CVC-ColonDB__polyp__318,CVC-ColonDB,polyp,WLI/standard,True,True,0.9455765000999764,0.8967710793524919,0.383198606271777,0.38353310104529614
+PolypDB__Simula_WLI__47844f79-22d7-4535-9a34-ab281612d869,PolypDB,Simula/WLI,WLI/standard,True,True,0.9696566528403564,0.9411005132545547,0.20245813440393517,0.20192464192708334
+PolypGen-normal__Cecum__100H0009,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__65b762e2-5411-4e2a-beb9-715b0a74a586,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.007684702932098765,0.0
+PolypDB__Simula_WLI__2d3b93e4-0bfb-427c-bdc8-26ec5b8d3e81,PolypDB,Simula/WLI,WLI/standard,True,True,0.9904557519625007,0.9810919668829716,0.21906647858796297,0.22123887803819445
+PolypGen-normal__Small_bowel_terminal_ileum__15fbc1ba-5c55-41d1-903b-bb23bc72102e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1cd9057a-e58f-40df-b90f-8e02df0e205b,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__0b6c6d10-4667-4e44-a6b0-5836cdc9efb0,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__0311d6ce-0415-4e95-b9dd-4393decb32b8,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__19559895-5989-4585-aa1f-7289b3c65513,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__3e663fe4-1c32-434b-8219-08b84b576b5f,PolypDB,Simula/WLI,WLI/standard,True,True,0.901560559425455,0.8207649198702193,0.4994439019097222,0.4215494791666667
+PolypDB__Simula_WLI__85f0090d-a4c1-4b37-90a8-fc47dd6cf2ec,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.043371431327160495,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200819_BN005_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9655440592285346,0.9333834542131022,0.05020021984924623,0.052777952261306535
+Kvasir-SEG__polyp__cju0u2g7pmnux0801vkk47ivj,Kvasir-SEG,polyp,WLI/standard,True,True,0.979426828875455,0.9596831041484739,0.29237871722817527,0.2828057931630794
+PolypDB__Simula_WLI__93d6b0fa-fe0e-406b-aa5f-1584b956a9a7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9399052622235133,0.8866238353328055,0.13179072627314814,0.14834029586226852
+PolypDB__Simula_WLI__8feb42e4-2d46-4747-94fe-a0dd6d29ffff,PolypDB,Simula/WLI,WLI/standard,True,True,0.9634079503078891,0.9293993240581393,0.11341628086419753,0.11095920138888889
+CVC-ClinicDB__polyp__441,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9156717832101573,0.8444599790283118,0.022180627893518517,0.025535300925925927
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0a60424b-fbee-4788-9ce5-1d522dd734e4,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__086cf3da-e777-4cb2-992f-dd75d981e014,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0d6a0541-78e3-490c-8883-dffd82f98b9e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__d79d2197-66b4-4226-85c1-6d0a6971ca4a,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2zxja9w1eh09933609ho9z,Kvasir-SEG,polyp,WLI/standard,True,True,0.9608740715149421,0.9246945391073061,0.03777138795554407,0.03704122512277074
+PolypGen-normal__Ileocecal_valve__e1cd0611-954d-4d9b-9d18-44e121a665bb,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.15207127700617284
+PolypGen-normal__Ileocecal_valve__8f3bac87-132b-4863-a5ff-eacbeefeb6a7,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__444,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9715848452508005,0.9447399143857829,0.0666775173611111,0.06888382523148148
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__06a7a4cc-46fe-4f50-ab30-f5da5dff7991,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__00deb127-a9f0-4b7e-b94b-6d1e0f9375e5,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__7d18456b-f170-4a9f-94d3-7805b43ad3ca,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__2a9bb945-57e2-4fb9-a57c-2ed321e7b5ea,PolypDB,Simula/WLI,WLI/standard,True,True,0.9710026784674508,0.9436396559529199,0.06685610170717593,0.06902398003472222
+PolypDB__Simula_WLI__0c0d2ad2-7270-46d6-b606-b5b44bb41aa5,PolypDB,Simula/WLI,WLI/standard,True,True,0.9001930788652903,0.8185010128291694,0.016739004629629628,0.015731095679012347
+CVC-ColonDB__polyp__136,CVC-ColonDB,polyp,WLI/standard,True,True,0.9353171580894353,0.8784936896428389,0.06546341463414634,0.06263414634146341
+HyperKvasir__retroflex-rectum__86be2137-b71c-416e-bc5b-c210a82de629,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_07_200808_200804_BN031_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9577325736851848,0.9188933180723843,0.09632302135678392,0.09454930904522613
+BKAI-NeoPolyp__train__61a01e80947f9c02314fc58bdb26679b,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9847743338771071,0.9700053561863953,0.16112908291457287,0.1565373743718593
+PolypGen-normal__Ileocecal_valve__3493f586-d5fc-40ff-b289-34400900df5f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju858eswlepn0871pzvdrhj1,Kvasir-SEG,polyp,WLI/standard,True,True,0.9809912638834014,0.9626917111838704,0.22614366103939093,0.22626944720291295
+PolypDB__Simula_WLI__04170fff-9dc8-4b50-8baa-e59cd82e159f,PolypDB,Simula/WLI,WLI/standard,True,True,0.9329675678067342,0.8743572731796317,0.028853202160493828,0.02564380787037037
+PolypGen-normal__Small_bowel_terminal_ileum__0d5f50d4-036f-4826-921a-7894511ae714,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.01020191333912037
+Kvasir-SEG__polyp__cju8c3xs7sauj0801ieyzezr5,Kvasir-SEG,polyp,WLI/standard,True,True,0.9544805689448786,0.9129247535663993,0.22682243209399758,0.23023089796252735
+PolypDB__Simula_WLI__eb2014e2-1706-423a-9d62-88d8483a936a,PolypDB,Simula/WLI,WLI/standard,True,True,0.5254652626001722,0.3563600431189364,0.07941261574074074,0.029810474537037036
+PolypGen-normal__Small_bowel_terminal_ileum__02ea480b-5508-4e62-8182-142c24647ad5,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.00861499927662037
+PolypDB__Simula_WLI__1cb0543a-89d3-4d20-85d9-2ce6c30e09ba,PolypDB,Simula/WLI,WLI/standard,True,True,0.9442905060522094,0.8944605608509463,0.01564187885802469,0.01742621527777778
+PolypGen-normal__Ileocecal_valve__5cc63a84-8de4-43a4-8e95-4ff31b8b60b8,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__342,CVC-ColonDB,polyp,WLI/standard,True,True,0.5344262295081967,0.36465324384787473,0.0029825783972125437,0.0033937282229965157
+PolypGen-normal__Ileocecal_valve__ab3b7a8f-ab6f-4617-8f99-039435021a0d,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju3381d8bz3h07991xtl7ra0,Kvasir-SEG,polyp,WLI/standard,True,True,0.941097865456975,0.8887486716259299,0.050110897333119554,0.044876676821121265
+Kvasir-SEG__polyp__cju1djtprvd7b0988thwwrg09,Kvasir-SEG,polyp,WLI/standard,True,True,0.9714485053399882,0.9444821288807722,0.059680881740412035,0.05971932972349492
+PolypDB__Simula_WLI__e2835dd3-cdee-4a75-ac6b-933728233d5e,PolypDB,Simula/WLI,WLI/standard,True,True,0.9655622958469435,0.9334175387946589,0.023808232060185185,0.024635597511574073
+PolypDB__Simula_WLI__1c38eda8-e6f2-4fc7-a41a-c65cc605eaa7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9767697091640754,0.9545942080800858,0.01976032021604938,0.019786844135802468
+PolypDB__Simula_WLI__3f6866bc-6668-481c-81fe-007d2814f08a,PolypDB,Simula/WLI,WLI/standard,True,True,0.9336784212229052,0.8756067961165048,0.003546820746527778,0.003440574363425926
+PolypGen-normal__Cecum__0082a6e6-1041-4d2f-8c64-5eda74606dc6,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__416a3374-1ee6-49c4-bb75-88bbec8c16be,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__6b1fd65b-d8a9-4a19-987d-bd597caea6e7,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__0a662b8c-ceec-45d4-8a81-5552f560b2cc,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__893a23c466c16952b6692e6be5e8f14e,BKAI-NeoPolyp,train,WLI/standard,True,True,0.978914381383151,0.9586996070997232,0.1020563756281407,0.0991378768844221
+PolypGen-normal__Small_bowel_terminal_ileum__1a290ecf-06f7-492f-8f9c-b14e078e90d7,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__4b01fa0d-d1b0-4b75-963f-fd4c45748f32,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__913813cd-9d24-4b2c-a45c-a3c11d3632f7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9608688791879241,0.9246849217998684,0.04754774305555556,0.044143036265432097
+PolypDB__Simula_WLI__82e1dc3f-49d2-4859-a799-a81c2f3bde62,PolypDB,Simula/WLI,WLI/standard,True,True,0.9404447794949115,0.887584489505514,0.006102912808641976,0.006691261574074074
+PolypDB__Simula_WLI__056b5451-b251-4a54-bcc9-616971eca32a,PolypDB,Simula/WLI,WLI/standard,True,True,0.9418369345257523,0.8900678593460827,0.01845823688271605,0.018479938271604938
+PolypGen-normal__Small_bowel_terminal_ileum__06aaebf6-d633-49b3-8f04-0c9a710b37c4,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__8c5f54ffaa27a623511c38948af83d1d,BKAI-NeoPolyp,train,WLI/standard,True,True,0.8451730418943534,0.7318611987381703,0.006517080348004094,0.004897006141248721
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1b52550d-be19-4ec2-8760-b9e0f3197c4e,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__fcb4443de3ef69f6db034099130d9830,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9725556894928913,0.946577522058469,0.04774497487437186,0.04735395728643216
+PolypDB__Simula_WLI__ddf07dcb-5be6-4057-9bc3-e2586b747f7a,PolypDB,Simula/WLI,WLI/standard,True,True,0.9681186230019944,0.9382072829131652,0.08412422839506173,0.08272087191358024
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1ae5a276-fdc4-4c35-8d52-0aa0f93f35e0,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__00ca34ee-7adc-4d60-909a-6ab51a1dcd0f,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__81ea19a7-6e77-4b04-a828-7a07263f9956,PolypDB,Simula/WLI,WLI/standard,True,True,0.9858287379044844,0.9720535128036769,0.05822482638888889,0.05764853395061728
+BKAI-NeoPolyp__train__f489284b8e6953ad88e16d4ca6160127,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9009113825867753,0.8196894848270995,0.004092336683417085,0.004005967336683417
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1c6f8f00-b73c-4c13-98e8-ff404a42433c,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__06ddded0-b889-46e6-93cc-8a3afd77560b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju5y7buemcw80987p0r30g9f,Kvasir-SEG,polyp,WLI/standard,True,True,0.9861883290285864,0.9727529848651683,0.14590767850850497,0.14679181215363424
+BKAI-NeoPolyp__train__18fa8625605da2023387fd56c04414ea,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9603565564156697,0.9237364620938628,0.0171875,0.017541058394160584
+PolypGen-normal__Small_bowel_terminal_ileum__042d04a8-2d30-4714-8641-6eb45b27abc9,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju3518w2d838079939fqztbc,Kvasir-SEG,polyp,WLI/standard,True,True,0.9713975991398843,0.9443858951987699,0.17030224506701216,0.17118522182135953
+BKAI-NeoPolyp__train__1e555525d4f09ce7270bfec57e441680,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9703408821280747,0.9423904137648504,0.014840609296482413,0.014941896984924622
+PolypGen-normal__Small_bowel_terminal_ileum__02dce7ff-eb3d-4f03-9f3e-c7ee9fa87066,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0f25873c-1d7a-4583-99f5-b9f72b684327,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200730_BN082_005,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9814027938166853,0.9634846707404618,0.08848225502512563,0.08761777638190955
+PolypDB__Simula_WLI__86063676-2cf7-406e-9612-b1558dff32a4,PolypDB,Simula/WLI,WLI/standard,True,True,0.9436325678496869,0.8932806324110671,0.011631944444444445,0.011467978395061728
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__2beaade7-ed18-432e-89c9-8acb3bc6a764,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__985d8751-ce20-444e-bd07-b032b29856fc,PolypDB,Simula/WLI,WLI/standard,True,True,0.9674867600724006,0.937021166082327,0.04976625795717592,0.05139612268518518
+PolypDB__Simula_WLI__7b740776-6ae5-4198-9b29-282d87ec92d6,PolypDB,Simula/WLI,WLI/standard,True,True,0.31183622276616835,0.18471917652274988,0.04760290075231482,0.17588975694444445
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__19ff51fa-2747-4cd9-9830-3a45e305e255,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__1ac59c8d-a317-4854-b832-4120cb97377b,PolypDB,Simula/WLI,WLI/standard,True,True,0.858875,0.752656369810494,0.016567804783950618,0.02201244212962963
+Kvasir-SEG__polyp__cju3ttznuftyf09875t11850w,Kvasir-SEG,polyp,WLI/standard,True,True,0.951990714195813,0.9083800373632239,0.10136907091249978,0.10745804884031984
+PolypDB__Simula_WLI__51796a08-16b1-42d7-9450-b595c0f549d7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9532062391681109,0.9105960264900662,0.01640037254050926,0.016208224826388888
+PolypGen-normal__Ileocecal_valve__eeb55bd8-3c51-479a-bc56-aa08a2a23bf5,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0dfb3011-08e3-4c09-840e-1acd03cddf35,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__cecum__068f7144-850a-4ad4-8623-2ab40e16b7c0,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__a052600f1f93e952886d1697f8af9b55,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9794911023881447,0.9598065285665824,0.07251450078206464,0.0733837330552659
+PolypGen-normal__Small_bowel_terminal_ileum__83e34504-ee87-4027-818b-d3b361128625,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__7dd17ba487d4878a9bf8a6f4d4987ea3,BKAI-NeoPolyp,train,WLI/standard,True,True,0.972723725747526,0.9468959326013396,0.034735890250260686,0.034166449426485924
+PolypDB__BKAI_WLI__HMUH_08_200822_200808_BN007_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9384361038398709,0.8840128297828949,0.03967964824120603,0.04010835427135678
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1bba30e9-5021-47cf-a4a5-a5cd9aa3d887,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__255ce2dd4ae1b0f124dbc13ca0eaf044,BKAI-NeoPolyp,train,WLI/standard,True,True,0.973631279977013,0.9486174519769145,0.03602701005025126,0.03502041457286432
+CVC-ClinicDB__polyp__343,CVC-ClinicDB,polyp,WLI/standard,True,False,0.0,0.0,0.06655092592592593,0.0
+PolypGen-normal__Ileocecal_valve__b496b90c-677f-4201-bdb1-9536bf7ee9af,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__88c566ae-7331-49e7-a36d-d99f40ae2ed8,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__eaee192d-d1fe-4cc3-a7b7-8229a02280a0,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__9c645bed-1b1b-497c-9a73-296e33dd7f58,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__86f36d68-847d-467d-9bbb-cb36eda7e6dc,PolypDB,Simula/WLI,WLI/standard,True,True,0.7731731731731731,0.6302219321148825,0.009577546296296296,0.01451099537037037
+PolypDB__Simula_WLI__495b38cc-0f8f-4a8b-993d-561c3a54f07f,PolypDB,Simula/WLI,WLI/standard,True,True,0.9809529460630155,0.9626179107953884,0.056572808159722224,0.057718912760416664
+PolypGen-normal__Small_bowel_terminal_ileum__0ffca056-a6be-4e86-9d90-7bfa7581a36e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju30nyxe0gfb0835p256yoju,Kvasir-SEG,polyp,WLI/standard,True,True,0.8951497118125638,0.8102000075332404,0.5087120063095311,0.5117727355457138
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0b0005fc-4ca8-4277-9cc5-9c2c546e0b71,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__734b26ff-46c4-4486-8898-d3463071185c,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__066c8e11-8309-4c51-98ba-4a5ccc2e42e6,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1df0e18c-3ae3-4a47-a016-0048bc5df335,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__368f9500-71a6-4f7b-bac2-fc74c9050bbc,PolypDB,Simula/WLI,WLI/standard,True,True,0.9785066677938161,0.9579178218231472,0.053708676938657406,0.053254304108796294
+Kvasir-SEG__polyp__cju1cdxvz48hw0801i0fjwcnk,Kvasir-SEG,polyp,WLI/standard,True,True,0.9733144187789406,0.948016059231451,0.06428608198774817,0.06393259776584244
+HyperKvasir__cecum__1536cdef-e0ac-47a2-a71b-d6a12458f460,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__290,CVC-ColonDB,polyp,WLI/standard,True,True,0.9265882817903369,0.8632179675994109,0.07298954703832752,0.06806968641114983
+Kvasir-SEG__polyp__cju1bm8063nmh07996rsjjemq,Kvasir-SEG,polyp,WLI/standard,True,True,0.9689694916549392,0.9398068086367903,0.2437350408753225,0.24440334462714866
+PolypDB__Simula_WLI__92ba28c8-3b0a-4673-b45e-b0ba65b8cee5,PolypDB,Simula/WLI,WLI/standard,True,True,0.9318657284138455,0.8724237703093701,0.05289351851851852,0.04853395061728395
+PolypDB__Simula_WLI__0d0658b4-5c96-4283-8ceb-f365206a9e83,PolypDB,Simula/WLI,WLI/standard,True,True,0.8508955312398067,0.7404857907809426,0.2948043258101852,0.3150589554398148
+CVC-ClinicDB__polyp__406,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9758562605277934,0.9528508771929824,0.08732096354166667,0.08982566550925926
+PolypDB__Simula_WLI__83c6aa09-0fe9-443a-b650-e59de4debd43,PolypDB,Simula/WLI,WLI/standard,True,True,0.9534170476245588,0.9109808691805816,0.04007040895061728,0.04326774691358025
+PolypDB__Simula_WLI__0635b112-2c2a-4a6c-b430-68cd8b66ddd7,PolypDB,Simula/WLI,WLI/standard,True,True,0.7934991722965415,0.6576863886674207,0.11710838035300926,0.0849948459201389
+PolypGen-normal__Retroflex_rectum__1f28c5ff-eef2-4d37-9073-850b95310d3f,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__fe67a971-e66d-4df8-a032-b866c66b3d19,PolypDB,Simula/WLI,WLI/standard,True,True,0.8946724237582021,0.8094183507120667,0.0661914966724537,0.06678828486689815
+BKAI-NeoPolyp__train__59989805234e222e19769fa2d37d3278,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9635203537420243,0.9296085622333657,0.020688599246231155,0.019797424623115577
+PolypGen-normal__Cecum__19d315e2-4b42-4d0c-8449-b79313a95ade,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0cccd84d-819e-4adf-b514-78bf8225f68b,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__324,CVC-ColonDB,polyp,WLI/standard,True,False,0.0,0.0,0.13676655052264808,0.0
+Kvasir-SEG__polyp__cju3umoh1geet0817cmpef5am,Kvasir-SEG,polyp,WLI/standard,True,True,0.923006500045775,0.8570214212852771,0.10733205688073971,0.09871757385975999
+PolypGen-normal__Ileocecal_valve__71b70026-5e20-4396-ae34-564d9a1ac067,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__cecum__503bf3e3-b208-4c07-bdc7-4ff63c5aeb51,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN071_006,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9361225404326394,0.8799157572276469,0.037848618090452264,0.039246231155778896
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0a535d19-10b7-44be-9fa6-30df39f79bee,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__31efe67a-b295-4f64-a538-e9769009051c,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0774139a-4736-4a85-b79c-5b3bb1a62d89,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.01781322337962963
+PolypGen-normal__Small_bowel_terminal_ileum__0d22a3a1-efc1-4154-b531-949f76c9437f,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__da9e6afaef7fdb2d45b21960c94b0aab,BKAI-NeoPolyp,train,WLI/standard,True,True,0.5425880425880426,0.37229558864849677,0.21794912060301508,0.08116520100502513
+PolypDB__Simula_WLI__c9201b20-ee6c-44ff-a2a2-bc422939b65a,PolypDB,Simula/WLI,WLI/standard,True,True,0.9796974644936689,0.9602029108037925,0.03610568576388889,0.03726987485532408
+Kvasir-SEG__polyp__cju7et17a2vjk0755e743npl1,Kvasir-SEG,polyp,WLI/standard,True,True,0.8805562824778497,0.7866016564253273,0.040530023756860815,0.03773010801764795
+PolypGen-normal__Small_bowel_terminal_ileum__0e3cc13e-15ee-4928-b49c-85fcf56a2a2a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__143,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9678948502477914,0.9377870563674322,0.041196469907407406,0.04273365162037037
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a6c8ad6-81c9-4e8c-85e4-5f36f61156c4,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju8amfdtqi4x09871tygrgqe,Kvasir-SEG,polyp,WLI/standard,True,True,0.9366107953516997,0.8807789201334514,0.13358308560334892,0.11779409088151428
+BKAI-NeoPolyp__train__2345d341253851bc866ebe4d18d5401f,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9712194290884096,0.9440491554266266,0.1358291457286432,0.13147456030150753
+PolypGen-normal__Ileocecal_valve__7bad6fd3-af7e-49b2-ba58-f3a711683dc8,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0d7e99cc-ec77-4b43-ab96-b6b60dca2edd,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__b0488d51-7dfa-4167-82e9-171fc013502a,PolypDB,Simula/WLI,WLI/standard,True,True,0.9427600271923862,0.8917181069958847,0.00853346836419753,0.00920138888888889
+PolypGen-normal__Ileocecal_valve__68ad9d6e-ecc1-4b81-b9d1-aee64820c769,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200824_BN020_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9436680552635018,0.8933442370701946,0.13439541457286433,0.14191896984924623
+Kvasir-SEG__polyp__cju2rqo702wpx0855fn7d5cxh,Kvasir-SEG,polyp,WLI/standard,True,True,0.9491080223268031,0.9031451780878984,0.02907987300195733,0.02654721788444152
+PolypGen-normal__Small_bowel_terminal_ileum__1af4b587-a832-4fce-8cc0-c84ec99cc890,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.016764322916666668
+PolypGen-normal__Small_bowel_terminal_ileum__185d143b-99d4-46f5-bdf0-45eb3a6d768b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0c5ac560-fbf0-4f8f-ae34-45787c2433ff,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__0e85d064f787d4be168d9510588bec07,BKAI-NeoPolyp,train,WLI/standard,True,True,0.8837117002698841,0.791651852378582,0.020733111566018425,0.01956243602865916
+Kvasir-SEG__polyp__cju3x7xsaijq80818f0psavav,Kvasir-SEG,polyp,WLI/standard,True,True,0.9871271904743751,0.9745815873334505,0.12544926425995084,0.12573334610105652
+HyperKvasir__cecum__12fc4384-70c3-4916-80d8-a769065a5190,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju1fuoa4wmc50835qfd11sp9,Kvasir-SEG,polyp,WLI/standard,True,True,0.9859253916292146,0.9722414736458144,0.08186331918215976,0.08303750060996438
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__03e229bb-d055-47a6-806c-1072b2510e94,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,True,0.0,0.0,0.0,0.03562403549382716
+CVC-ClinicDB__polyp__330,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9570520965692503,0.9176413255360624,0.052897135416666664,0.05384657118055555
+PolypGen-normal__Ileocecal_valve__79c45635-c20f-4200-9551-c82c5f67f78c,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju3y79ofj3va0871uqfb1mzo,Kvasir-SEG,polyp,WLI/standard,True,True,0.9800523407967432,0.9608849355684799,0.1081245661639427,0.10888811762478702
+CVC-ClinicDB__polyp__452,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9598475568259154,0.9227950798220361,0.033293547453703706,0.033139829282407406
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0481d2cf-1490-4fae-a1db-4c3c376ed920,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__e8762fa3-13d0-46bc-b7ec-2437c7080ff4,PolypDB,Simula/WLI,WLI/standard,True,True,0.9307315668202765,0.8704377104377105,0.014931007667824073,0.016463668258101853
+PolypDB__BKAI_WLI__HMUH_06_200731_200728_BN076_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.970230607966457,0.9421824104234527,0.04679491206030151,0.046837311557788947
+CVC-ClinicDB__polyp__391,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9601860465116279,0.9234210055466094,0.04881004050925926,0.048394097222222224
+PolypDB__Simula_WLI__7720c0f0-5ed9-43e2-92fe-bd83ebbefb5b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9779540912119193,0.9568592592592593,0.11243353949652778,0.11151123046875
+PolypGen-normal__Small_bowel_terminal_ileum__34a04bd4-e864-4091-a412-0a269360682a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__13f2aaf6-88cf-4964-ba2d-0bdf5c081b42,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2rlqdnoz9k0993cpjae3x0,Kvasir-SEG,polyp,WLI/standard,True,True,0.9719953432518402,0.9455164788129548,0.17470224461749886,0.1723259276225378
+PolypGen-normal__Small_bowel_terminal_ileum__01980820-27de-46d7-8fec-435a0542269c,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__0317371a966bf4b3466463a3c64db170,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9514963263843259,0.9074802028143337,0.013720253326509724,0.013053352098259979
+BKAI-NeoPolyp__train__4284d7a5b6b0449922d6157edc3d82df,BKAI-NeoPolyp,train,WLI/standard,True,True,0.78596067175265,0.6473930897175328,0.018777481155778895,0.012407349246231155
+PolypDB__Simula_WLI__0a26e584-c293-4f43-8fe3-dab50261c05e,PolypDB,Simula/WLI,WLI/standard,True,True,0.9545179711118575,0.9129931885361778,0.05185667438271605,0.05581838348765432
+PolypGen-normal__Ileocecal_valve__0442ec19-fa16-4119-b13a-527c84779c9f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__30606741-f945-4fb0-85c2-8adb01fa632d,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1d9eeb28-58f7-470d-ba97-7a7e0aa94bea,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__078130f5-e4c6-4686-917e-8383aa72c8f1,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__f35edeb1919e5149b7e87593ab2925eb,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9111857164657409,0.8368605466012614,0.005177449748743719,0.005113065326633166
+BKAI-NeoPolyp__train__31871f2fd85a04faeeb2b53579739530,BKAI-NeoPolyp,train,WLI/standard,True,True,0.8902087471824816,0.8021407133300387,0.06463803391959799,0.05275439698492462
+PolypGen-normal__Cecum__65524064-7a2b-47fa-bc36-beb5faec9f3e,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju8dk7eztzup08182yxko5zh,Kvasir-SEG,polyp,WLI/standard,True,True,0.9706225958113691,0.9429219952388861,0.05480264117904567,0.051887251325453576
+BKAI-NeoPolyp__train__a4baf3866269959350e7998934d417cb,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9681942703254863,0.9383493834938349,0.02682074426485923,0.025814650677789364
+BKAI-NeoPolyp__train__1c4aa179344271fa54aa1b27918630bf,BKAI-NeoPolyp,train,WLI/standard,True,True,0.6274991949884371,0.45719404513074263,0.056242668143899895,0.027245177267987485
+CVC-ClinicDB__polyp__443,CVC-ClinicDB,polyp,WLI/standard,True,True,0.965925698023229,0.9340969949419815,0.05717411747685185,0.060384114583333336
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__8c01fccf-8d72-4813-a829-5e4102fef2b5,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__145239fb-fb30-4f81-8c48-c79a88fdeb13,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_07_200808_200801_BN018_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9589323925451894,0.9211048213185459,0.08024104899497488,0.07644001256281407
+PolypDB__Simula_WLI__572b6dbf-31ff-4624-ba53-52f5b55ede3b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9870240325491052,0.9743805028592176,0.19608787254050927,0.19728144892939814
+PolypGen-normal__Small_bowel_terminal_ileum__05d48362-853b-498b-85b5-3a59564f38a8,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju42wamblrqn098798r2yyok,Kvasir-SEG,polyp,WLI/standard,True,True,0.9305912596401028,0.8701923076923077,0.2278950916579086,0.2393350348997754
+CVC-ClinicDB__polyp__236,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9206979244190854,0.8530493410971499,0.10471824363425926,0.11397750289351852
+PolypGen-normal__Ileocecal_valve__068e69e0-43e4-4292-9847-214f839a0ce7,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1ac7e6d0-b28a-40bf-b409-01debbfd719e,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__893f1a7d-52ae-4873-ac59-009d8d6191e0,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0daa0f4a-c7bc-4a01-a87c-870543c14c19,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__09c078d0-4660-4527-8814-8a8f835870d4,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a4b267e-4a1d-4f7a-b7ca-54ca4626023a,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__16769f45-a2ab-49f4-8c12-b601247cfe6b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200716_BN005_007,PolypDB,BKAI/WLI,WLI/standard,True,True,0.8906301414939125,0.8028252567572578,0.017865891959798996,0.0203125
+PolypGen-normal__Small_bowel_terminal_ileum__90961730-1488-444b-832d-3e61c9cf58bf,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200827_BN037_008,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9672048213971494,0.9364923863273347,0.03527167085427136,0.03612280150753769
+HyperKvasir__cecum__24ec26cb-94c4-4e57-ba04-1bc45889e91c,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__155,CVC-ClinicDB,polyp,WLI/standard,True,True,0.946524064171123,0.8984771573604061,0.015190972222222222,0.015245225694444444
+BKAI-NeoPolyp__train__cfd263f1f90be28799235026b3550534,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9168172509336224,0.8464104988044264,0.013205087939698492,0.012865891959798995
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__01c43069-3280-4ef5-8c1f-b6d4fa38aad9,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_08_200822_200820_BN067_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9717497698308862,0.9450518378887842,0.03162217336683417,0.03319252512562814
+PolypGen-normal__Ileocecal_valve__8cc3bbf7-24e9-4cc2-b1ac-a863f0407b1d,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__001e87e4-9f3e-4028-b6e7-4c7fd1eba5bf,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0eb407b9-231a-428d-947a-a66f41406202,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__8604bdcd-7cc1-4504-827d-8cacec991589,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0f95750d-0ddf-490c-a578-aec1c2ca5a56,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.005864197530864198
+BKAI-NeoPolyp__train__a65d2b46d0a6085835c525af63a987f4,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9751429571711985,0.951491687542701,0.0204884645464025,0.021395985401459854
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0d64c872-0267-4abd-80e5-c43d3872ef80,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju0roawvklrq0799vmjorwfv,Kvasir-SEG,polyp,WLI/standard,True,True,0.9423377039121794,0.8909627462355285,0.10849654097242521,0.11978405437006723
+PolypDB__Simula_WLI__955acf53-b168-4d3b-9c5d-ecbb5cd64444,PolypDB,Simula/WLI,WLI/standard,True,True,0.9650895572828658,0.9325343695914835,0.1360202365451389,0.13153980396412038
+PolypGen-normal__Ileocecal_valve__8235bc85-a460-452f-bb25-85ebe68adf56,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__34290bca-c8cd-4628-8358-a7006caf3c29,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__14a75aa5-b91a-48ca-b2ce-6acbf4bbb660,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__e8ad7e31-f163-455b-8f3b-998f4394eeb0,PolypDB,Simula/WLI,WLI/standard,True,True,0.9822230512073691,0.9650671027404985,0.08267988040123457,0.08537808641975309
+PolypDB__Simula_WLI__7092d407-9778-4004-bff1-7e6627042cc1,PolypDB,Simula/WLI,WLI/standard,True,True,0.9069194312796208,0.8296912937911898,0.005823206018518518,0.006896219135802469
+PolypDB__Simula_WLI__9fcb90cb-1fb6-4f67-a356-720496f0460b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9699914132055859,0.9417313851959107,0.054289641203703706,0.05241849922839506
+PolypGen-normal__Small_bowel_terminal_ileum__0261dcdd-eea0-422c-9880-9b44831deee8,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju2nnqrqzp580855z8mhzgd6,Kvasir-SEG,polyp,WLI/standard,True,False,0.0,0.0,0.5774643586594378,0.0
+PolypGen-normal__Ileocecal_valve__c2ab05db-6dea-43ff-bc00-3cf41e8dc54b,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0e9b9352-bb68-4f95-aea5-30681a2e898c,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__260800dc-85d9-4416-aeda-27d0744e0033,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0b2d642a-1b13-4cb1-8218-bcb594856df5,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju77re6fz5bb0817vp9redjg,Kvasir-SEG,polyp,WLI/standard,True,True,0.9566183640610473,0.916844164312106,0.09035308147706461,0.09746156139528941
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0ef6c261-077a-40c1-9e94-bd4ef801ca9a,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__78d1e8ce-a87b-488f-bb83-3587f4327e6e,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Retroflex_rectum__01deb30e-4e28-416e-8b1c-45e0acf601f8,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__179ca298-9da4-4ecb-9a34-9598af8ee339,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__055cc79f-3d81-4bb5-b10d-5f15fef49f0b,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Retroflex_rectum__2e685d2e-dcb2-4df2-b319-987a5776b5d9,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__86c1e91b-782b-4ed8-9085-4748572b5935,PolypDB,Simula/WLI,WLI/standard,True,True,0.9539981185324553,0.912042449860599,0.07805748456790124,0.07573302469135802
+PolypGen-normal__Ileocecal_valve__78d503f2-9996-4884-8014-f29be773f916,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__0452bd0b-0ce2-4eef-b179-8acf75c5cab8,PolypDB,Simula/WLI,WLI/standard,True,True,0.9658991409707267,0.9340473248203579,0.05080777391975309,0.05108506944444444
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__87931bd8-3847-4bbe-90cc-113911666477,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__041bcce7-3b42-46f0-b244-b0da8ff72f98,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__1d92611c-8a7e-4e3a-ba6f-bdd3bd84817a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__242,CVC-ColonDB,polyp,WLI/standard,True,True,0.947646145887222,0.9005014256218661,0.03423693379790941,0.03311498257839721
+PolypDB__BKAI_WLI__HMUH_08_200822_200817_BN042_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9453652960360421,0.8963912267278755,0.011114164572864321,0.0122393216080402
+PolypGen-normal__Ileocecal_valve__e4403c1f-5016-4d87-80af-119ca2f5f3ca,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.019110785590277776
+PolypDB__Simula_WLI__5b31dfd2-8011-4975-991b-0813892ad663,PolypDB,Simula/WLI,WLI/standard,True,True,0.9716267818837383,0.9448192200721937,0.07302065248842593,0.07556830512152778
+PolypDB__BKAI_WLI__HMUH_09_200908_200828_BN045_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9712704123996678,0.9441455015066724,0.014227386934673366,0.0141410175879397
+BKAI-NeoPolyp__train__fe1bce59ddf92e76900d229db65646d8,BKAI-NeoPolyp,train,WLI/standard,True,True,0.8468128280912259,0.7343238363374851,0.03819802135678392,0.050797738693467334
+PolypGen-normal__Small_bowel_terminal_ileum__18ee8947-25b2-4bea-98b2-c94843f698ee,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_08_200822_200810_BN011_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9514294193293105,0.9073584905660378,0.06472047738693468,0.062277010050251255
+BKAI-NeoPolyp__train__68c030b9afea6923881bf04350ffd698,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9541456777725587,0.9123122192968871,0.024785646984924622,0.02369032663316583
+PolypDB__Simula_WLI__69b999ac-07b2-499a-96f5-804d4994a152,PolypDB,Simula/WLI,WLI/standard,True,True,0.9122446650690402,0.8386487620646245,0.04439863040123457,0.04012104552469136
+PolypDB__Simula_WLI__5eacf929-5298-4d7e-8b18-9b7db724afc7,PolypDB,Simula/WLI,WLI/standard,True,True,0.9426794991908696,0.8915740293217336,0.041619194878472224,0.038004557291666664
+PolypGen-normal__Small_bowel_terminal_ileum__1252d146-cf70-473d-9850-00aff20fe6c3,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_08_200822_200818_BN051_002,PolypDB,BKAI/WLI,WLI/standard,True,False,0.0,0.0,0.02911275125628141,0.0
+PolypGen-normal__Ileocecal_valve__6983b9c7-658e-4b2c-af88-b23c6e241f53,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__57149495-0d0a-401b-99dc-8e8868339a77,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__8a9bf8a6f4d4987ea3b4bae5672a2301,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9740768841679313,0.9494638234931592,0.012662930135557873,0.013106100104275287
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__05a3fd40-2e41-4f97-ab3d-54220489cf4b,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__030e3fe2-af89-4198-9189-477dd0c31b66,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.04429735725308642,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__29cce6a2-5772-41ad-a96e-883e4e98cf12,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju42qet0lsq90871e50xbnuv,Kvasir-SEG,polyp,WLI/standard,True,True,0.9507181075753309,0.9060654857756307,0.07518785153272994,0.0701900245010046
+CVC-ColonDB__polyp__102,CVC-ColonDB,polyp,WLI/standard,True,True,0.9489897773035487,0.9029310627149173,0.10513937282229965,0.09732055749128919
+PolypGen-normal__Cecum__148566d1-bcb4-47f4-95ab-14843ee60b42,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__6cd02edd-9249-4a70-9235-41772f397f11,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__cecum__02387cd3-612f-4358-a4d8-4f3116fb3db0,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__06d0f458-5e59-4db6-8926-05a684877cca,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__3d9b8807-c49a-49ba-8ef6-5371dddf8905,PolypDB,Simula/WLI,WLI/standard,True,True,0.9799799343305363,0.9607457414941655,0.048943413628472224,0.05019576461226852
+HyperKvasir__retroflex-rectum__c7b958aa-bd66-4a30-b68d-ab4eb4597a5c,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__e2336dc9-dd44-4bc3-8d66-8a05d9c626f8,PolypDB,Simula/WLI,WLI/standard,True,True,0.8399020408163266,0.7239923440666517,0.058451334635416664,0.08000804759837964
+PolypDB__BKAI_WLI__HMUH_06_200731_200720_BN028_008,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9367847541100616,0.8810866451843895,0.01633087311557789,0.016670854271356783
+PolypDB__Simula_WLI__68543af1-a09f-4f1b-890f-b95a876f24e2,PolypDB,Simula/WLI,WLI/standard,True,True,0.879689681574562,0.7852196548639657,0.18900704089506173,0.23929157021604938
+PolypGen-normal__Small_bowel_terminal_ileum__02cae076-6e7d-4531-8a89-1ace51960d4a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__100H0007,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__7a31a1fc-c045-41bf-a7bc-12a1caf96ac4,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__cecum__4dbfef0c-de0a-411b-a8d1-84ad34b2c037,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__9b60bd21-e367-4a5b-bab4-e1fe33a874c9,PolypDB,Simula/WLI,WLI/standard,True,True,0.9771623048937919,0.9553444398549726,0.10081741898148149,0.10464650848765432
+CVC-ColonDB__polyp__195,CVC-ColonDB,polyp,WLI/standard,True,True,0.9285668850582024,0.8666587508905248,0.026407665505226482,0.028369337979094078
+PolypGen-normal__Cecum__2dc3ed69-7e69-4eea-a3c7-cfae01dbcf72,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1437337a-3de0-4a02-8f61-47cdfc64c9f3,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__01cfa08e-2639-420c-84a6-dd6460c6756f,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_07_200808_200807_BN046_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9610412097425834,0.925004166435198,0.013387248743718593,0.013820665829145729
+HyperKvasir__cecum__94ca021d-01e7-48af-9304-40c836e258b1,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju8cattbsivm0818p446wgel,Kvasir-SEG,polyp,WLI/standard,True,False,0.0,0.0,0.39281154568143845,0.0
+PolypDB__Simula_WLI__1a08010f-dec7-48a6-b541-b9f29b8edc44,PolypDB,Simula/WLI,WLI/standard,True,True,0.9749636569213375,0.9511503309171131,0.12866512345679013,0.12511332947530865
+PolypDB__Simula_WLI__5f2a9a55-f26c-459d-b7c9-784d2af8e502,PolypDB,Simula/WLI,WLI/standard,True,True,0.8578667101366588,0.7511091023704461,0.3788587782118056,0.2867770724826389
+HyperKvasir__cecum__b6037e14-fed0-4c6f-9065-1442204ae76d,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__2fd45498-2146-4f63-8e2a-e424a2d1da7d,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__6d6b7568-9250-472f-9e01-1c7f9839cb0e,PolypDB,Simula/WLI,WLI/standard,True,True,0.8506178707224334,0.7400653351527933,0.052112720630787035,0.04301170066550926
+PolypGen-normal__Ileocecal_valve__15cebe53-c747-49a3-b3d3-5015f53fd512,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__9e032093-f728-4160-bf85-eb1cb2c70eb6,PolypDB,Simula/WLI,WLI/standard,True,True,0.9848706455925139,0.9701922630021534,0.14237015335648148,0.14510543258101852
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__2aeddad4-acd6-4951-acf0-ed679b753ca9,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__25605da2023387fd56c04414eaa922bc,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9897065751214256,0.9796229003869612,0.07518655500521376,0.07526394681960376
+BKAI-NeoPolyp__train__a39099848c4425bf33b9b001c13a3d81,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9476795096322241,0.900561680882047,0.0034484924623115576,0.0037248743718592964
+Kvasir-SEG__polyp__cju31w6goazci0799n014ly1q,Kvasir-SEG,polyp,WLI/standard,True,True,0.954857241339691,0.9136141770370696,0.1259005915986576,0.12786869950345367
+PolypDB__Simula_WLI__6dc5a2d9-5243-448d-919d-fbffa64c966b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9266754084417196,0.8633692134979859,0.03167438271604938,0.03636429398148148
+CVC-ColonDB__polyp__193,CVC-ColonDB,polyp,WLI/standard,True,True,0.9681937815051077,0.9383484651967142,0.03838327526132404,0.03972473867595819
+PolypDB__Simula_WLI__0e4ed20c-2c4e-45be-a183-c6f61453b45c,PolypDB,Simula/WLI,WLI/standard,True,True,0.9549407114624506,0.913767019667171,0.08523823302469136,0.09167631172839506
+PolypGen-normal__Ileocecal_valve__a0f71efe-6b52-44a7-b20b-4b4acd288a50,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__dd2f4ba1-ca2a-4b9e-92dd-b74b316d2420,PolypDB,Simula/WLI,WLI/standard,True,True,0.9668203688853247,0.9357718055690307,0.024030671296296297,0.024078896604938272
+PolypDB__Simula_WLI__8df32b61-b6db-4cf2-9fc6-05e7110d0b71,PolypDB,Simula/WLI,WLI/standard,True,True,0.9789946456940004,0.9588535863844174,0.060303337191358025,0.06263985339506173
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__2ae75469-ed7d-4337-9a1e-9fd5e7681cfa,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__736e60fc-6daf-408a-9177-87f6561366dc,PolypDB,Simula/WLI,WLI/standard,True,True,0.937306648146979,0.8820104562737643,0.09707513503086419,0.09388503086419753
+PolypGen-normal__Ileocecal_valve__ef0a52fc-d69b-43cc-acc5-30ad885646b1,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200730_BN083_005,PolypDB,BKAI/WLI,WLI/standard,True,True,0.7389050448855734,0.5859234008421897,0.029961526381909548,0.05076790201005025
+PolypGen-normal__Retroflex_rectum__1e1a8486-8251-4a33-b5d0-a7ef99ef844a,PolypGen-normal,Retroflex rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0de6d763-5c26-4d94-baa2-051f2088975c,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__138f5bdf-ef9d-441b-bcb1-297531a2a1de,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju33w4sdcivk0855x879zht7,Kvasir-SEG,polyp,WLI/standard,True,True,0.9869196323356116,0.9741770385018029,0.07566837235073288,0.07519429687199074
+PolypGen-normal__Small_bowel_terminal_ileum__04ffc1b8-a37e-449b-b507-350f99df9d23,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__8f8487e7-8349-4f75-bc97-63ba51343148,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__04e52d67-9a2c-44ec-9553-66178a90b0b5,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__7f96ac9e-e941-4981-8fb8-c9ab12832363,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__6122d4db-862f-4bce-8d95-6f07f957551e,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__ileum__b60cdd06-886b-4d83-a447-172b4253aab0,HyperKvasir,ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__44d9660d-6c58-44ac-b429-6bed23fdf65e,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200723_BN056_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9716670307672417,0.9448953401661377,0.17846733668341708,0.17375785175879396
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0de078cf-0852-4fdd-9f38-5f850365a0b2,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__195e092d-8c88-423a-add3-8774362b318e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200813_BN002_008,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9562082836901239,0.9160910828748607,0.2551209170854271,0.2351868718592965
+PolypGen-normal__Small_bowel_terminal_ileum__7be025e8-3537-4dda-abcd-03be4963e73f,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__03fc1ee2-f6c5-4764-8a4e-2cc5ff613db0,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__2a3523a4-7dd3-46f3-a1b6-4f23cad4d867,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200716_BN006_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9419205710148977,0.8902172608330332,0.032048523869346736,0.029773869346733668
+PolypDB__Simula_WLI__56524e6c-4ea6-46c0-aa79-f230853e593b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9814738214317051,0.9636215956779108,0.5330923574942129,0.5489795826099537
+PolypGen-normal__Ileocecal_valve__3,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__991f6301-0ba1-4eb5-853b-36d5c77461bc,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__136ae991-e61b-473e-9163-7bdfe49c9b99,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__c1d4f50a5f3601ad4f13ccf1f4b331a4,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9156974724526519,0.8445036778839993,0.029956815326633166,0.02654993718592965
+PolypGen-normal__Ileocecal_valve__100H0008,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__475,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9364433516830218,0.8804828150572831,0.21494321469907407,0.2006293402777778
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__02b812be-6ed7-4f7c-b640-09f3bfd7d517,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__263ea0b2-b561-41db-9ac0-891f0e6e8e3b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju85plp7lmkw0850rx42jdpf,Kvasir-SEG,polyp,WLI/standard,True,True,0.9449407651971257,0.895628163828808,0.3067873876155502,0.2800303912878308
+PolypGen-normal__Cecum__06d09fdb-8dd2-46e0-af28-55ddc19479a9,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__df208d5b-3d99-42ba-a099-106f94ce76ae,PolypDB,Simula/WLI,WLI/standard,True,True,0.9845893049776545,0.9696463803308545,0.05869999638310185,0.05865026403356482
+PolypGen-normal__Small_bowel_terminal_ileum__36416360-3b33-474c-b284-51d4731d1ee4,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.00383617259837963
+CVC-ColonDB__polyp__65,CVC-ColonDB,polyp,WLI/standard,True,True,0.941363172639386,0.8892220148682962,0.10362020905923346,0.11154703832752613
+Kvasir-SEG__polyp__cju5uget8krjy0818kvywd0zu,Kvasir-SEG,polyp,WLI/standard,True,True,0.9496929308767803,0.9042050261259019,0.03732526614267237,0.03405755646204358
+PolypGen-normal__Small_bowel_terminal_ileum__29ce7b4c-3882-4cbc-addc-035bc0f26c51,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__939d8662-e70e-4cfa-bed1-e7ca868f1f1f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju5hi52odyf90817prvcwg45,Kvasir-SEG,polyp,WLI/standard,True,True,0.9618065759930408,0.9264232981566194,0.21254801536491677,0.21292313540332908
+PolypDB__Simula_WLI__1a5380d4-651a-42fc-b8c2-d28f9039782c,PolypDB,Simula/WLI,WLI/standard,True,True,0.8655502259919482,0.7629691907240002,0.2574393656716418,0.1989767957089552
+PolypDB__Simula_WLI__c5276ddb-d3f7-4181-a7ed-5eb5527cf4b6,PolypDB,Simula/WLI,WLI/standard,True,True,0.9670475413180983,0.9361975308641975,0.023550829475308642,0.023719618055555555
+PolypDB__Simula_WLI__9099e033-42ce-44e3-80fb-9bcc6dbbc52b,PolypDB,Simula/WLI,WLI/standard,True,True,0.9286150091519219,0.8667425968109339,0.00920138888888889,0.010558931327160494
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__07e495db-a901-4c61-b428-4266663dc68d,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0f6a91a0-4385-429c-a48e-f36c45c32382,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__62ce1ac9-89cd-4871-a6fd-d8d204c931a6,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__65c6069a-8399-488c-8b3b-1777463d952c,PolypDB,Simula/WLI,WLI/standard,True,True,0.963059956107187,0.9287518230000356,0.12208387586805555,0.12306495949074074
+PolypGen-normal__Small_bowel_terminal_ileum__0f5d1b0c-940a-4148-98ee-f52c6285f8fb,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__09c6a3c3-fb3f-4792-8d22-5143a3147b44,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__1631eb71-aa0e-404e-afb2-2ec02936e696,PolypGen-normal,Cecum,WLI-like normal,False,True,0.0,0.0,0.0,0.016626428674768517
+PolypGen-normal__Ileocecal_valve__153274eb-235b-40d9-b5b7-49b996f2f64d,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__44ddea0b-9c35-4e79-8bc9-c96c82bf23bc,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__c58d520d-dcb1-4fa3-a63a-5557fea10094,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__14153a85-fda9-4c96-8cfc-881a620f4bf5,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.004980016637731482
+PolypGen-normal__Ileocecal_valve__12ad9868-2c8e-4fc6-904a-fae247df13b2,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__06e1aaeb-d24e-447f-9de1-457b4afc1b31,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1ade023e-b735-410e-a10c-881ad86f8ad7,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__6b90e7ab-89d0-44ee-a986-a8aefca0909b,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0ea7d1ce-e24a-4815-9c5c-1c92e6d8e02e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.004491735387731482
+PolypDB__Simula_WLI__9157fb88-42f3-4b1e-8a84-64c36443dc28,PolypDB,Simula/WLI,WLI/standard,True,True,0.9675388644609433,0.9371189201768676,0.04928626543209876,0.05106819058641975
+PolypDB__BKAI_WLI__HMUH_06_200731_200716_BN005_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9553441144194011,0.9145060374483411,0.13164415829145729,0.12879239949748744
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__8d548f36-219f-4c51-be0c-3435f28fddd6,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__3d73b5ca-f28e-4662-b185-1d593532a3a8,PolypDB,Simula/WLI,WLI/standard,True,True,0.9236565653580768,0.858142982648803,0.21323875144675927,0.24575240523726852
+HyperKvasir__cecum__0eb29c65-f36d-4f68-9125-f3b861b9fd0b,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__79d7c7c8d3d96fb2b87fbbcfdfb3ea1d,BKAI-NeoPolyp,train,WLI/standard,True,True,0.8722038613191777,0.7733701432418366,0.027678000255885363,0.034987525588536336
+PolypGen-normal__Ileocecal_valve__2b3bb05a-acdc-4ba5-9847-47fcc0dc853e,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__863b44b8-65b5-4534-a616-2d355111a102,PolypDB,Simula/WLI,WLI/standard,True,True,0.979754841233618,0.9603131490653459,0.27945511429398145,0.2752685546875
+PolypGen-normal__Ileocecal_valve__7f85d90d-37ce-4b09-bcf2-6fd5ad8c4b02,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.18285349151234567
+PolypGen-normal__Cecum__0b10baab-fd45-4757-8c0d-abc78143ae93,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__0b12103e-e05e-45b4-8388-fb9f3b19a910,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__c19049fa-4651-424c-a95e-5fdd1cabe0f4,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju6wi3akvn8r0801px8eligc,Kvasir-SEG,polyp,WLI/standard,True,True,0.9102292873572309,0.8352484396922928,0.6137384462607899,0.5453097547933695
+HyperKvasir__cecum__ad3ae246-62bc-4497-8669-16c2217726d4,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__da437849-fd04-4a44-a277-5b998eadf177,PolypDB,Simula/WLI,WLI/standard,True,True,0.9820823244552058,0.9647954329210275,0.019950810185185186,0.01988329475308642
+PolypGen-normal__Small_bowel_terminal_ileum__0530742e-4e65-4288-8a8b-d3b694a827e8,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__02654c87-ed4b-4335-a474-9a8de8ec071e,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__1836eed3-731f-4b7c-b09b-bcd005a55d16,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.045037163628472224
+PolypGen-normal__Small_bowel_terminal_ileum__0eacf75c-9f4c-4643-86b2-df9957939e17,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0f5029f2-0c4b-4222-b9e8-d0c711c97bd6,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju7dxffn2eam0817qxosfwch,Kvasir-SEG,polyp,WLI/standard,True,True,0.6450375615623795,0.476055677459339,0.17434083488396587,0.08347961942211143
+PolypDB__Simula_WLI__1ae8de54-27c5-488b-9d11-da2fadbec579,PolypDB,Simula/WLI,WLI/standard,True,True,0.9531898971000935,0.9105661995996569,0.06169463734567901,0.0671875
+PolypDB__BKAI_WLI__HMUH_09_200908_200825_BN024_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9831938104763649,0.9669431801324722,0.3270626570351759,0.3288316582914573
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__65d15d6d-81f8-4413-a758-4f7398aa9ccc,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju5wi6bqlxy90755bu227nvb,Kvasir-SEG,polyp,WLI/standard,True,True,0.9612050739957717,0.9253078253790576,0.08910695868470546,0.08307043620700115
+PolypDB__Simula_WLI__7c907188-9128-4ded-9f7f-5086a7adbea7,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.10890706380208333,0.0
+PolypGen-normal__Ileocecal_valve__9263299c-2573-4939-add6-7c506a4cb118,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__111dc96e-ec29-43ca-b68a-ce9409e942f2,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__8e77caa9-5403-44df-b576-36ac44636b9f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__88318bcf-fb22-48ea-82e4-6e6e9dbff029,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__cecum__61a27d40-a524-4a65-a3ae-bc59949324c6,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0db2e054-b447-4071-b2fe-6bbe2aa54e39,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__55229b4f-4850-4918-9c97-1983b428ea5a,PolypDB,Simula/WLI,WLI/standard,True,True,0.8129005438736273,0.6847788023812303,0.30744990596064814,0.21459508825231483
+PolypGen-normal__Ileocecal_valve__fef0676b-854f-43b9-a8f3-894642b2fc5b,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a6b14f1-8533-4e7b-a2b2-710c265ecaef,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju6z600qwh4z081700qimgl9,Kvasir-SEG,polyp,WLI/standard,True,True,0.9440753796095445,0.8940745971624832,0.047743248242693305,0.04321741275126403
+PolypGen-normal__Small_bowel_terminal_ileum__0cebc63f-f7c4-41a0-8d07-bb4dc7a0c9a4,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_08_200822_200810_BN009_009,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9768988791038837,0.954840982138926,0.05182396356783919,0.05275910804020101
+PolypDB__Simula_WLI__7d16bbd5-7a97-483d-ad33-59229221d086,PolypDB,Simula/WLI,WLI/standard,True,True,0.9774786129957896,0.9559493086590714,0.21259901258680555,0.20887134693287038
+Kvasir-SEG__polyp__cju77afzlz3kp07550x5nafzs,Kvasir-SEG,polyp,WLI/standard,True,True,0.9145988817163015,0.84263676009706,0.5499336207736529,0.46514481633050764
+PolypDB__Simula_WLI__8dd97262-e114-42c1-a176-1e1e80affda2,PolypDB,Simula/WLI,WLI/standard,True,True,0.9335574229691876,0.8753939903341038,0.010416666666666666,0.011103877314814815
+PolypDB__Simula_WLI__75a0847f-f050-45ad-9288-d003c41bec2c,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.016474971064814815,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__02e8ed5f-8a24-4fb9-aa59-56128121858b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__131,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9757996435606416,0.9527429251762982,0.09563078703703703,0.09716796875
+PolypGen-normal__Small_bowel_terminal_ileum__0bd83449-9520-4f42-b3d6-b4882fce6e6b,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200721_BN041_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9668713600887445,0.9358673477213811,0.0493757851758794,0.04971733668341709
+BKAI-NeoPolyp__train__e23b1fdd80af3feff05dec1eb3a70b14,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9795996523839684,0.9600150124141117,0.05428995046923879,0.056324947862356624
+Kvasir-SEG__polyp__cju5bf6hxa6m50817rbwettgu,Kvasir-SEG,polyp,WLI/standard,True,True,0.9542892924232936,0.9125748502994012,0.0869136071599421,0.08232056242847022
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a2d9a3a-fe30-4401-8c69-186834e27808,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__6a451953-ab86-498f-a795-0606f9432d43,PolypDB,Simula/WLI,WLI/standard,True,True,0.9431930267232481,0.8924931899330388,0.41132722077546297,0.37706615306712965
+PolypGen-normal__Small_bowel_terminal_ileum__31c156e1-f6e0-4896-bc3a-fdde2acaeb3a,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__54224573-bbf3-4d5c-9d0b-538998d978d8,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__129991cf-884d-4ad2-962e-089c7c66db76,PolypDB,Simula/WLI,WLI/standard,True,True,0.9608746089218547,0.9246955345060893,0.031340422453703706,0.032965766059027776
+PolypDB__BKAI_WLI__HMUH_07_200808_200801_BN019_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.8944019331453886,0.8089756666180971,0.014845320351758794,0.014398555276381909
+PolypGen-normal__Small_bowel_terminal_ileum__28be932a-982a-4a4c-9cf4-999b544ecfc7,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,True,0.0,0.0,0.0,0.007597746672453704
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__06d26373-a5d2-4b89-b677-47661bf52c88,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__da45ffe51330463d287a51b9298e11bb,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9649445726136241,0.9322636711834948,0.049250735670419654,0.04675985158648925
+PolypGen-normal__Small_bowel_terminal_ileum__1bfc34d0-f043-42b5-8ede-61784923966e,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__deb8578f-fba9-4c84-8752-fe9888cda3c8,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__fc17d614-c60b-4dba-bfb2-0203cff1557b,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.01861496913580247,0.0
+PolypDB__Simula_WLI__1f233ecd-9e93-4bbd-a2ad-0cffc9bba42f,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.09712336033950618,0.0
+PolypDB__Simula_WLI__97b07344-df4e-4165-919b-4cbd3e9ed7f1,PolypDB,Simula/WLI,WLI/standard,True,True,0.7799460196766985,0.6392717308049116,0.4733954535590278,0.30552616825810186
+PolypDB__Simula_WLI__344c9e5d-511b-42f9-8ca8-1341cee1dfee,PolypDB,Simula/WLI,WLI/standard,True,True,0.9580260918888258,0.91943385955362,0.12922272858796297,0.13381166811342593
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__101ae017-b504-4ed5-b5fc-15884512554b,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,True,0.0,0.0,0.0,0.005181206597222222
+PolypDB__BKAI_WLI__HMUH_08_200822_200813_BN034_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9778894144511499,0.9567354337946178,0.060914729899497484,0.05943310301507538
+PolypDB__Simula_WLI__3afdddd9-cbd9-4617-aec1-ef6f0aac165d,PolypDB,Simula/WLI,WLI/standard,True,True,0.9205871283402334,0.8528591352859135,0.006001790364583333,0.006010832609953704
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0671fc70-d66d-4ab6-b29e-a36af274e02f,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__374,CVC-ColonDB,polyp,WLI/standard,True,True,0.8533916849015317,0.7442748091603053,0.007191637630662021,0.005547038327526133
+CVC-ClinicDB__polyp__313,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9208575755160596,0.8533234859675037,0.06017614293981482,0.053276909722222224
+CVC-ClinicDB__polyp__395,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9485636231698468,0.9021597921403053,0.10138165509259259,0.11045102719907407
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__03e22721-f4c9-4f93-be4a-b2be41d54016,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__954145ba-1e34-425e-8505-7e278f31675c,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__674b01ed-7035-429c-a55b-7bce635d2f09,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju323ypb1fbb0988gx5rzudb,Kvasir-SEG,polyp,WLI/standard,True,True,0.9792927816974909,0.9594257433841875,0.3800074971885543,0.3682431588154442
+PolypGen-normal__Ileocecal_valve__8bea7682-f3b3-48b8-8c01-2622869f4490,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_06_200731_200720_BN017_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9481283299121249,0.9013726264088059,0.016866363065326632,0.017176507537688443
+HyperKvasir__retroflex-rectum__8d0a80d1-60fe-4807-b779-2e83c4e3c14f,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__85c615c4-a3bf-4db9-b1c5-74ec37b0f5db,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__cecum__13af6b8f-80fe-497b-98df-017d859329d8,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__1a11fccd-1f79-4002-bc9d-d364d569e31d,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__4d6c748c41743c6c08a1d1ad8f2c5f72,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9783085274373404,0.9575381156735079,0.16408055904522614,0.1586196608040201
+BKAI-NeoPolyp__train__6e9bd5f0d1fd8bbf118acd7936140a2d,BKAI-NeoPolyp,train,WLI/standard,True,True,0.5346123866865521,0.36482660412129336,0.09315562185929649,0.034775439698492464
+Kvasir-SEG__polyp__cju784jpdzeae0987q5ypq883,Kvasir-SEG,polyp,WLI/standard,True,True,0.9323364955707734,0.8732493821348711,0.10921163711929346,0.09751607247223845
+PolypGen-normal__Ileocecal_valve__04915647-c85f-4308-b9ca-4f85e303ce8c,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__15e6855e-212f-4edd-b29e-7a20a165054f,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__b2ce33d4-91b1-4711-aa96-0d44d96f3e0e,PolypDB,Simula/WLI,WLI/standard,True,True,0.9728935410214093,0.9472178200387392,0.10871913580246914,0.10459587191358025
+PolypGen-normal__Ileocecal_valve__a428d1fb-5185-403f-ad7b-e9f45ad57e4d,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__5ba72343-fe37-44d3-a380-f115d94afd2e,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__81809754-45f6-42d3-a275-b25c35be2786,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__25beb7c9-91b7-45c0-a648-391f2fe791e3,PolypDB,Simula/WLI,WLI/standard,True,True,0.9809598185232703,0.9626311467931759,0.12015335648148148,0.12299714265046297
+PolypGen-normal__Small_bowel_terminal_ileum__000c8453-b230-4c94-8127-c4e92171f017,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ColonDB__polyp__53,CVC-ColonDB,polyp,WLI/standard,True,True,0.8916657369184425,0.8045097644453393,0.014101045296167247,0.017128919860627177
+PolypDB__Simula_WLI__add8885f-2f6e-4015-9d1e-68e95dda6e01,PolypDB,Simula/WLI,WLI/standard,True,True,0.9321411959274382,0.8729067854031556,0.147680362654321,0.13225308641975309
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0c599706-3539-41cd-ad7d-220d8626b02d,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__21b4129b-d99e-49d9-9c15-b2f5c30e05ce,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju422cm8lfxn0818ojicxejb,Kvasir-SEG,polyp,WLI/standard,True,True,0.9651857929902707,0.9327140915269597,0.09888489813687949,0.09807025702421826
+Kvasir-SEG__polyp__cju1efbr0rqxz09931z0lf4vf,Kvasir-SEG,polyp,WLI/standard,True,True,0.9240222655967614,0.8587745229776942,0.06004169731155672,0.06608051349692133
+CVC-ClinicDB__polyp__565,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9266903149521659,0.8633950926389584,0.08481626157407407,0.08342375578703703
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__12ee4cac-a6ca-404b-8dcb-da48c2f26c9e,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__9c371cf7-4ced-4d74-acb2-72d11aa90d91,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__6e76da13-26d8-4126-b9b6-fe4341f39a23,PolypDB,Simula/WLI,WLI/standard,True,False,0.0,0.0,0.057453221450617285,0.0
+PolypGen-normal__Ileocecal_valve__65867425-845c-44e0-9b94-b41e6998c412,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__a7b24423d5c7edd718176ef3065837ce,BKAI-NeoPolyp,train,WLI/standard,True,True,0.7930198739699467,0.6570281124497992,0.018515383126934983,0.013086945304437565
+CVC-ClinicDB__polyp__281,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9581270903010033,0.9196199280945043,0.033022280092592594,0.03456850405092592
+PolypDB__BKAI_WLI__HMUH_08_200822_200820_BN064_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9665401241409887,0.9352468796503599,0.05701005025125628,0.05633165829145729
+PolypGen-normal__Ileocecal_valve__816b5d99-ceaf-47c3-af85-fc35a608bfcc,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__fbaf9e6b-a7f6-4898-adb0-a7f7f821f59f,PolypDB,Simula/WLI,WLI/standard,True,True,0.8814109107406147,0.7879666619349868,0.11055501302083333,0.08875868055555555
+HyperKvasir__retroflex-rectum__dbd466bd-3581-4730-8ef4-58a712272668,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__53248704ccdc265a0b0a1230b118fa86,BKAI-NeoPolyp,train,WLI/standard,True,True,0.7890321686078757,0.6515715348943723,0.009423879040667361,0.014077163712200209
+BKAI-NeoPolyp__train__ba3137327e936a4fa0fbb89bdd490629,BKAI-NeoPolyp,train,WLI/standard,True,True,0.951677706591378,0.907810234099855,0.00727483055265902,0.007729405630865485
+PolypDB__Simula_WLI__a50cdf8a-43f5-46d6-975c-9ec402addb18,PolypDB,Simula/WLI,WLI/standard,True,True,0.9590250329380764,0.9212757878749526,0.017850597993827162,0.0187524112654321
+PolypGen-normal__Ileocecal_valve__afcc024a-a72f-4ecf-9d61-63f401067a3a,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__587,CVC-ClinicDB,polyp,WLI/standard,True,True,0.9210005398596365,0.8535690460306872,0.023139105902777776,0.02710865162037037
+Kvasir-SEG__polyp__cju40sdwukv3k0755y99ug1k8,Kvasir-SEG,polyp,WLI/standard,True,True,0.9683077784343607,0.9385626431930544,0.10149667405764967,0.09653855629465385
+PolypDB__Simula_WLI__9783c6c4-06ed-4335-b0e7-5a5f9be23059,PolypDB,Simula/WLI,WLI/standard,True,True,0.9783523951599535,0.9576221688623532,0.0718605324074074,0.07361111111111111
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__96fd68d3-9da2-4500-b1e8-8ba1c39329e5,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__02e52544-83c2-47e6-831c-377965f358d2,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0560ace7-5bf6-402e-8706-677408f3e9c0,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__2b8fd54b-1387-49ab-888c-09ced02e1366,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__6f32090c-9fc8-455a-8155-5a2119da64ea,PolypGen-normal,Ileocecal valve,WLI-like normal,False,True,0.0,0.0,0.0,0.032660590277777776
+PolypGen-normal__Small_bowel_terminal_ileum__08203cfb-55cb-445b-aca7-d18a4eeb09bf,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__bc8379dd-6dda-446f-a0f9-be76a579f122,PolypDB,Simula/WLI,WLI/standard,True,True,0.9702604232101513,0.9422386446822603,0.13376494984567902,0.1349320023148148
+PolypGen-normal__Cecum__29baaa4b-b88c-46ec-be69-97b7d5d99215,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__fd463f24-3bfa-47e4-b7ac-5a20a530313e,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__fcf5d1a1-23eb-4150-a143-bb0a156e5a90,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju15czxqp3lv0835jvhgzurz,Kvasir-SEG,polyp,WLI/standard,True,True,0.9642685737491363,0.9310025256640052,0.27298755676121955,0.2861001356372
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__750bd840-d3ed-4e34-8687-614c7070455a,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__852381e9-e449-4cb9-9ad6-191074bb8620,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+HyperKvasir__retroflex-rectum__8db88f7d-d7a0-4cb6-811a-a0e5d4ed8894,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0b5a97d1-9572-4d91-856b-98f506da1b8c,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Small_bowel_terminal_ileum__0cee5fc1-33a5-4cc0-98a6-ce4eb8b2f233,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200831_BN051_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9624536985071276,0.9276248174392817,0.0411981783919598,0.04274340452261306
+PolypGen-normal__Cecum__a104ec50-e259-4787-bf3b-aff329ea9845,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Ileocecal_valve__e7b79caf-75bd-4b1d-9b36-2c2b7a893784,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypGen-normal__Cecum__85c685c6-a5c7-4716-9a1c-c8e423a1b0b1,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__26a6f23c5d6d5f35f66adf95b204727f,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9835085170501454,0.9675521473096924,0.14148445646506777,0.13776394681960374
+PolypDB__Simula_WLI__8eeb6916-d885-4307-beb1-1eecda7a6b56,PolypDB,Simula/WLI,WLI/standard,True,True,0.9876566269748619,0.9756142562809434,0.1540702160493827,0.15575327932098765
+PolypDB__Simula_WLI__bcd20b5b-8546-46d0-b412-5e862b28fe6d,PolypDB,Simula/WLI,WLI/standard,True,True,0.9789100290228958,0.9586912582112178,0.03767843364197531,0.03709490740740741
+HyperKvasir__cecum__b122acb3-89bb-4a46-8a6a-fe40307b625e,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__a64a8bd16f2523acfd87d330a5a97b8e,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9683674113340907,0.938674700637722,0.04951947236180904,0.05001570351758794
+BKAI-NeoPolyp__train__4c31cfc1c9d33f3a7b24423d5c7edd71,BKAI-NeoPolyp,train,WLI/standard,True,True,0.8472513727236108,0.7349836318828852,0.019184205475946774,0.01853409672466735
+CVC-ClinicDB__polyp__610,CVC-ClinicDB,polyp,WLI/standard,True,True,0.96,0.9230769230769231,0.03855613425925926,0.039885344328703706
+PolypDB__BKAI_WLI__HMUH_09_200908_200819_BN007_001,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9822928913198916,0.9652019553974164,0.19592258165829146,0.19610866834170854
+PolypGen-normal__Small_bowel_terminal_ileum__1f949bf2-f494-4056-a064-208a5c54e1d2,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__eae03d29-b64d-4d96-a6b5-845e42a305b1,PolypDB,Simula/WLI,WLI/standard,True,True,0.9701099681883508,0.9419549060804666,0.22172791280864199,0.22623939043209876
+PolypGen-normal__Cecum__0b37ed7a-dcb9-4149-bda0-67ec127075a6,PolypGen-normal,Cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+CVC-ClinicDB__polyp__550,CVC-ClinicDB,polyp,WLI/standard,True,True,0.927734375,0.8652094717668488,0.05541087962962963,0.05570023148148148
+PolypGen-normal__Small_bowel_terminal_ileum__0b31fdc0-8034-4547-8c3f-6b103cee45a2,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+BKAI-NeoPolyp__train__d7b4193425b976973f13dd311a65d2b4,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9776514164674965,0.9562799149087041,0.03552447210636079,0.03639533368091762
+PolypGen-normal__Small_bowel_terminal_ileum__2dcc42fc-df62-4417-987d-67ab4d01980f,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__888f8a44-2600-4d21-8d96-cc5292e8f7d2,PolypDB,Simula/WLI,WLI/standard,True,True,0.9439894677740992,0.893920504546788,0.059321952160493824,0.06522231867283951
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__16e05c5d-8128-4c99-b7c3-344f4acb5725,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_08_200822_200810_BN009_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9804080610242678,0.9615690587051638,0.06623665201005025,0.0654145728643216
+PolypDB__BKAI_WLI__HMUH_08_200822_200818_BN056_004,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9833951706100602,0.9673327749192294,0.025742776381909548,0.02589353015075377
+BKAI-NeoPolyp__train__dff2864e2d89df283ecd59f911f025ba,BKAI-NeoPolyp,train,WLI/standard,True,True,0.9728552847367529,0.947145295380719,0.08441111809045226,0.08220006281407036
+PolypGen-normal__Ileocecal_valve__fbbca3ab-1f0d-4801-8bcf-8bba9ef3257f,PolypGen-normal,Ileocecal valve,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__07b05203-7f42-4e1d-81a1-8ed7d339c769,PolypDB,Simula/WLI,WLI/standard,True,True,0.8268156424581006,0.7047619047619048,0.005165382667824074,0.004141348379629629
+PolypDB__Simula_WLI__ea563611-f89a-462b-8eb5-567c2cb1c2a1,PolypDB,Simula/WLI,WLI/standard,True,True,0.9645935823076384,0.9316086570696115,0.1929759837962963,0.18492476851851852
+HyperKvasir__retroflex-rectum__2c816856-0a4a-4484-ba99-ea10b0dc0bfd,HyperKvasir,retroflex-rectum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__BKAI_WLI__HMUH_09_200908_200827_BN033_003,PolypDB,BKAI/WLI,WLI/standard,True,True,0.978618637779057,0.958132460583674,0.05554098618090452,0.05767430904522613
+HyperKvasir__cecum__1edb1e85-54b4-48bf-a28d-9cf4b90300c1,HyperKvasir,cecum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+PolypDB__Simula_WLI__0315e98c-a0c0-42d4-8581-d3e7be2cdf88,PolypDB,Simula/WLI,WLI/standard,True,True,0.9840680520217958,0.9686357968958252,0.1097728587962963,0.11104359567901234
+PolypGen-normal__Normal_mucosa_and_vascular_pattern_in_the_large_bowel__0dcd4979-3485-4bf2-ae02-3b138d831de9,PolypGen-normal,Normal mucosa and vascular pattern in the large bowel,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju41kd7yl4nm0850gil5qqwh,Kvasir-SEG,polyp,WLI/standard,True,True,0.9864445533235342,0.9732516919110539,0.0757625358607459,0.07511132231550416
+CVC-ColonDB__polyp__118,CVC-ColonDB,polyp,WLI/standard,True,True,0.958711650578228,0.9206975676916016,0.035198606271777004,0.037714285714285714
+PolypDB__BKAI_WLI__HMUH_07_200808_200728_BN002_002,PolypDB,BKAI/WLI,WLI/standard,True,True,0.9631635453576101,0.9289445225860716,0.1071898555276382,0.10709170854271356
+PolypGen-normal__Small_bowel_terminal_ileum__0c6b0228-600a-4bd7-971b-a5ff6606c7e8,PolypGen-normal,Small bowel_terminal ileum,WLI-like normal,False,False,1.0,1.0,0.0,0.0
+Kvasir-SEG__polyp__cju5u8gz4kj5b07552e2wpkwp,Kvasir-SEG,polyp,WLI/standard,True,True,0.9154027992323176,0.8440025463687272,0.2610017776986224,0.3026639094198238
+PolypDB__Simula_WLI__6c6d26b8-6a53-4f58-b6af-a75c883692af,PolypDB,Simula/WLI,WLI/standard,True,True,0.9539262207255472,0.9119110330699444,0.007990933641975308,0.0077618634259259255
